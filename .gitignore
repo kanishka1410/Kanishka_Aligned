@@ -15,7 +15,7 @@ chroma.sqlite3
 *.pickle
 
 # Aligned data with embeddings (shared separately)
-*_aligned.json
+
 
 # Generated / temporary files
 *.emb
