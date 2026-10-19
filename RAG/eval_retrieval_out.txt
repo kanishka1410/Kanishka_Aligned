@@ -1,0 +1,258 @@
+Parsed 30 Tamil queries
+Loading BAAI/bge-reranker-v2-m3 on cpu ...
+
+==============================================================================
+Q1 (std 6) நீளம், நிறை மற்றும் காலம் என்றால் என்ன?
+  gold EN : What are length, mass and time?
+  NLLB    : What are length, mass, and time?
+  Qwen    : What is length, mass, and time?
+  GOLD    6_term1_ch1_aligned_align_00127 (9.40) Length, mass and time are some of the fundamental physical quantities.
+  GOLD    6_term1_ch1_aligned_align_00002 (6.57) To define length, mass and time.
+  GOLD    6_term1_ch1_aligned_align_00024 (4.53) In this chapter let’s study in detail about length, mass and time and the necessity to mea
+  candidates: A=1289  Tamil-side=100  C=1318  D=1328
+  A HIT  00127(9.33)*; 00002(6.47)*; 00024(4.53)*
+  B HIT  00127(8.98)*; 00002(6.69)*; 00024(4.12)*
+  C HIT  00127(9.33)*; 00002(6.47)*; 00024(4.53)*
+  D HIT  00127(9.33)*; 00002(6.69)*; 00024(4.53)*
+  E HIT  00002(0.98)*; 00127(0.82)*; 00024(0.22)*
+  F HIT  00002(1.00)*; 00127(0.99)*; 00128(0.87)
+
+==============================================================================
+Q2 (std 6) சுழிப் பிழை என்றால் என்ன?
+  gold EN : What is zero error?
+  NLLB    : What is a loophole?
+  Qwen    : What is a glitch?
+  GOLD    6_term1_ch1_aligned_align_00004 (3.75) To identify zero error and parallax error.
+  candidates: A=1452  Tamil-side=100  C=1464  D=1557
+  A MISS (nothing above floor)
+  B MISS (nothing above floor)
+  C MISS (nothing above floor)
+  D MISS (nothing above floor)
+  E MISS 00102(0.03); 00138(0.02); 00178(0.02)
+  F HIT  00004(0.02)*; 00058(0.01); 00114(0.01)
+
+==============================================================================
+Q3 (std 6) தொடு விசைக்கும் தொடா விசைக்கும் உள்ள வேறுபாடு என்ன?
+  gold EN : What is the difference between contact force and non-contact force?
+  NLLB    : What is the difference between a touch key and a touch key?
+  Qwen    : What is the difference between attractive force and repulsive force?
+  GOLD    6_term1_ch2_aligned_align_00055 (7.41) Contact, Non-contact Forces Forces can be classified into two major types; contact and non
+  GOLD    6_term1_ch2_aligned_align_00002 (6.58) To understand that some forces are contact forces and some are non-contact forces.
+  GOLD    6_term1_ch2_aligned_align_00068 (5.58) Such forces are known as non-contact forces.
+  candidates: A=1297  Tamil-side=100  C=1314  D=1548
+  A MISS (nothing above floor)
+  B MISS 00036(3.33); 00029(1.77)
+  C MISS (nothing above floor)
+  D MISS 00036(3.33); 00029(1.77)
+  E MISS 00027(0.02); 00052(0.01); 00099(0.01)
+  F HIT  00055(0.97)*; 00209(0.85); 00002(0.80)*
+
+==============================================================================
+Q4 (std 6) திண்மம், திரவம், வாயு ஆகியவற்றை வேறுபடுத்துக.
+  gold EN : Distinguish between solids, liquids and gases.
+  NLLB    : Distinguish between dust, liquid, and gas.
+  Qwen    : Distinguish between a liquid, a gas, and a solid.
+  GOLD    6_term1_ch3_aligned_align_00003 (9.20) To differentiate solids, liquids and gases based on the arrangement of their particles.
+  GOLD    6_term1_ch3_aligned_align_00218 (8.21) Difference between the _ properties of solids, liquids and gases is due to the difference 
+  GOLD    6_term1_ch3_aligned_align_00215 (5.76) Matter is classified into solids, liquids and gases on the basis of two important factors.
+  candidates: A=1179  Tamil-side=100  C=1207  D=1556
+  A HIT  00003(2.91)*; 00218(2.05)*
+  B HIT  00003(6.91)*; 00218(5.33)*; 00080(4.01)
+  C HIT  00003(2.91)*; 00218(2.05)*
+  D HIT  00003(6.91)*; 00218(5.33)*; 00080(4.01)
+  E HIT  00003(0.94)*; 00224(0.75); 00109(0.73)
+  F HIT  00215(0.96)*; 00037(0.92); 00003(0.90)*
+
+==============================================================================
+Q5 (std 6) தூய பொருள் என்றால் என்ன? கலவை என்றால் என்ன?
+  gold EN : What is a pure substance? What is a mixture?
+  NLLB    : What is pure matter? What is composition?
+  Qwen    : What is a pure substance? What is an alloy?
+  GOLD    6_term1_ch3_aligned_align_00220 (7.90) A mixture is an impure substance containing two or more components physically mixed in any
+  GOLD    6_term1_ch3_aligned_align_00111 (7.27) A mixture is an impure substance and contains more than one kind of particles.
+  GOLD    6_term1_ch3_aligned_align_00087 (7.10) A pure substance is made up of only one kind of particles.
+  candidates: A=1297  Tamil-side=100  C=1312  D=1429
+  A HIT  00087(2.82)*; 00219(1.83)
+  B HIT  00087(4.28)*; 00219(4.10); 00088(2.00)
+  C HIT  00087(2.82)*; 00219(1.83)
+  D HIT  00087(4.28)*; 00219(4.10); 00088(2.00)
+  E HIT  00088(0.78); 00219(0.67); 00111(0.44)*
+  F HIT  00219(0.95); 00220(0.87)*; 00111(0.85)*
+
+==============================================================================
+Q6 (std 6) சமச்சீர் உணவு என்றால் என்ன?
+  gold EN : What is a balanced diet?
+  NLLB    : What is a balanced diet?
+  Qwen    : What is a balanced diet?
+  GOLD    6_term1_ch6_aligned_align_00046 (9.33) A balanced diet contains sufficient amount of various nutrients to ensure good health.
+  GOLD    6_term1_ch6_aligned_align_00045 (8.38) Balanced Diet A diet should contain adequate amount of all the necessary nutrients require
+  GOLD    6_term1_ch6_aligned_align_00047 (6.82) Balanced diet is important for the following reasons.
+  candidates: A=1491  Tamil-side=100  C=1503  D=1503
+  A HIT  00046(9.33)*; 00045(8.38)*; 00047(6.82)*
+  B HIT  00046(9.33)*; 00045(8.38)*; 00047(6.82)*
+  C HIT  00046(9.33)*; 00045(8.38)*; 00047(6.82)*
+  D HIT  00046(9.33)*; 00045(8.38)*; 00047(6.82)*
+  E HIT  00046(0.03)*; 00084(0.02); 00003(0.01)
+  F HIT  00045(0.16)*; 00003(0.02); 00047(0.02)*
+
+==============================================================================
+Q7 (std 6) குறைபாட்டு நோய்கள் யாவை?
+  gold EN : What are deficiency diseases?
+  NLLB    : What are disabilities?
+  Qwen    : What are infectious diseases?
+  GOLD    6_term1_ch6_aligned_align_00056 (7.62) The diseases that are caused due to lack of nutrients in the diet are called deficiency di
+  GOLD    6_term1_ch6_aligned_align_00055 (5.21) Malnutrition leads to deficiency diseases.
+  GOLD    6_term1_ch6_aligned_align_00004 (4.02) To list out the deficiency diseases.
+  candidates: A=1574  Tamil-side=100  C=1590  D=1809
+  A MISS (nothing above floor)
+  B MISS 00090(0.58)
+  C MISS (nothing above floor)
+  D MISS 00090(0.58)
+  E HIT  00004(0.75)*; 00056(0.29)*; 00055(0.27)*
+  F HIT  00056(0.86)*; 00086(0.80); 00087(0.77)
+
+==============================================================================
+Q8 (std 6) கணினியின் தலைமுறைகள் யாவை?
+  gold EN : What are the generations of computers?
+  NLLB    : What are the generations of computers?
+  Qwen    : What are the components of a computer?
+  GOLD    6_term1_ch7_aligned_align_00061 (6.33) The computers that we use today belongs to fifth generation.
+  GOLD    6_term1_ch7_aligned_align_00004 (4.81) To understand the generations of computers.
+  GOLD    6_term1_ch7_aligned_align_00068 (3.61) In the Fourth generation computers, they used Micro processor.
+  candidates: A=1393  Tamil-side=100  C=1412  D=1618
+  A HIT  00061(6.33)*; 00004(4.81)*; 00068(3.61)*
+  B MISS 00071(1.81); 00025(1.68); 00090(1.42)
+  C HIT  00061(6.33)*; 00004(4.81)*; 00068(3.61)*
+  D HIT  00061(6.33)*; 00004(4.81)*; 00068(3.61)*
+  E HIT  00004(0.58)*; 00002(0.18); 00005(0.16)
+  F HIT  00064(0.99); 00004(0.97)*; 00005(0.76)
+
+==============================================================================
+Q9 (std 6) மின்சுற்று என்றால் என்ன?
+  gold EN : What is an electric circuit?
+  NLLB    : What is an electrical circuit?
+  Qwen    : What is an electrical circuit?
+  GOLD    6_term2_ch2_aligned_align_00112 (10.52) An electric circuit is the continuous or unbroken closed path along with electric current 
+  GOLD    6_term2_ch2_aligned_align_00072 (6.22) Inside view of torch An electric circuit is the continuous or unbroken closed path along w
+  GOLD    6_term2_ch2_aligned_align_00009 (5.75) What are electric circuits?
+  candidates: A=1373  Tamil-side=100  C=1384  D=1384
+  A HIT  00112(8.90)*; 00073(5.36); 00072(4.09)*
+  B HIT  00112(8.90)*; 00073(5.36); 00072(4.09)*
+  C HIT  00112(8.90)*; 00073(5.36); 00072(4.09)*
+  D HIT  00112(8.90)*; 00073(5.36); 00072(4.09)*
+  E HIT  00092(0.66); 00112(0.21)*; 00072(0.06)*
+  F HIT  00009(1.00)*; 00112(1.00)*; 00072(0.98)*
+
+==============================================================================
+Q10 (std 6) கரைப்பான் மற்றும் கரைபொருள் என்றால் என்ன?
+  gold EN : What are solvent and solute?
+  NLLB    : What are solvents and solvents?
+  Qwen    : What is the difference between an acid and a base?
+  GOLD    6_term2_ch3_aligned_align_00050 (8.76) Solute is a substance that is dissolved in a solvent to make a solution.
+  GOLD    6_term2_ch3_aligned_align_00049 (8.21) Solvent is a substance that dissolves the solute.
+  GOLD    6_term2_ch3_aligned_align_00072 (7.13) A solute when dissolved in a solvent makes a solution.
+  candidates: A=1619  Tamil-side=100  C=1640  D=1850
+  A HIT  00049(8.12)*; 00075(1.89); 00004(1.87)
+  B MISS 00018(0.39)
+  C HIT  00049(8.12)*; 00075(1.89); 00004(1.87)
+  D HIT  00049(8.12)*; 00075(1.89); 00004(1.87)
+  E HIT  00049(0.25)*; 00050(0.06)*; 00228(0.05)
+  F HIT  00050(0.99)*; 00049(0.98)*; 00051(0.63)
+
+==============================================================================
+Q11 (std 6) காற்றின் கூறுகள் யாவை?
+  gold EN : What are the components of air?
+  NLLB    : What are the elements of air?
+  Qwen    : What are the rays of light?
+  GOLD    6_term2_ch4_aligned_align_00087 (8.11) The major component of air is nitrogen.
+  GOLD    6_term2_ch4_aligned_align_00089 (7.17) The second major component of air is oxygen. About one — fifth of air is oxygen.
+  GOLD    6_term2_ch4_aligned_align_00170 (3.76) Air contains 78% Nitrogen, 21% Oxygen, 1% of carbon-di-oxide, water vapor, Noble gases, an
+  candidates: A=1651  Tamil-side=100  C=1667  D=1766
+  A HIT  00170(4.94)*; 00090(4.58); 00087(4.23)*
+  B MISS (nothing above floor)
+  C HIT  00170(4.94)*; 00090(4.58); 00087(4.23)*
+  D HIT  00170(4.94)*; 00090(4.58); 00087(4.23)*
+  E HIT  00173(0.23); 00170(0.13)*; 00087(0.11)*
+  F MISS 00092(0.42); 00104(0.39); 00005(0.21)
+
+==============================================================================
+Q12 (std 6) ஒரு செல் உயிரிகளுக்கும் பல செல் உயிரிகளுக்கும் உள்ள வேறுபாடு என்ன?
+  gold EN : What is the difference between unicellular and multicellular organisms?
+  NLLB    : What is the difference between single-celled organisms and multicellular organisms?
+  Qwen    : What is the difference between a single cell organism and a multicellular organism?
+  GOLD    6_term1_ch5_aligned_align_00035 (9.31) Some organisms are made of a single cell and these are called unicellular organisms; where
+  GOLD    6_term1_ch5_aligned_align_00052 (9.03) Table 1 The differences between Unicellular and Multicellular Organisms. Unicellular Organ
+  GOLD    6_term1_ch5_aligned_align_00036 (6.85) Amoeba, paramecium and euglena are unicellular organisms while fish, frog, lizard, bird an
+  candidates: A=1292  Tamil-side=100  C=1316  D=1322
+  A HIT  00035(8.99)*; 00052(7.53)*; 00037(6.39)
+  B HIT  00035(8.49)*; 00052(7.19)*; 00035(5.47)
+  C HIT  00035(8.99)*; 00052(7.53)*; 00037(6.39)
+  D HIT  00035(8.99)*; 00052(7.53)*; 00037(6.39)
+  E HIT  00035(0.97)*; 00003(0.77); 00052(0.75)*
+  F HIT  00052(0.98)*; 00035(0.98)*; 00003(0.97)
+
+==============================================================================
+Q13 (std 6) மனித உடலின் முக்கிய உறுப்பு மண்டலங்கள் யாவை?
+  gold EN : What are the major organ systems of the human body?
+  NLLB    : What are the major organs of the human body?
+  Qwen    : What are the major components of the human body?
+  GOLD    6_term2_ch6_aligned_align_00004 (8.02) The Human body has eight major organ systems.
+  GOLD    6_term2_ch6_aligned_align_00005 (3.12) They are Skeletal System Muscular System Digestive System Respiratory System Circulatory S
+  GOLD    6_term2_ch6_aligned_align_00053 (3.05) The human respiratory system consists of nostrils, nasal cavity, pharynx, larynx, trachea,
+  candidates: A=1343  Tamil-side=100  C=1363  D=1817
+  A HIT  00004(6.38)*; 00097(2.45); 00050(1.78)
+  B HIT  00004(3.21)*; 00089(0.01)
+  C HIT  00004(6.38)*; 00097(2.45); 00050(1.78)
+  D HIT  00004(6.38)*; 00097(2.45); 00050(1.78)
+  E HIT  00004(0.60)*; 00022(0.14); 00053(0.13)*
+  F HIT  00005(0.98)*; 00001(0.98); 00004(0.97)*
+
+==============================================================================
+Q14 (std 6) காந்தத்தின் பண்புகள் யாவை?
+  gold EN : What are the properties of a magnet?
+  NLLB    : What are the properties of magnetism?
+  Qwen    : What are the properties of carbon?
+  GOLD    6_term3_ch1_aligned_align_00049 (5.48) 1.7 Properties of Magnets Attraction or Repulsion Take two similar magnets, place them in 
+  GOLD    6_term3_ch1_aligned_align_00055 (3.35) Magnets lose their properties if they are heated or dropped from a height or hit with a ha
+  GOLD    6_term3_ch1_aligned_align_00096 (3.12) Magnets lose their properties if they are heated or dropped from a height or hit with a ha
+  candidates: A=1488  Tamil-side=100  C=1513  D=1792
+  A HIT  00049(3.31)*; 00076(1.22); 00055(0.90)*
+  B MISS (nothing above floor)
+  C HIT  00049(3.31)*; 00076(1.22); 00055(0.90)*
+  D HIT  00049(3.31)*; 00076(1.22); 00055(0.90)*
+  E MISS 00132(0.01); 00048(0.01); 00027(0.01)
+  F HIT  00171(0.37); 00055(0.13)*; 00172(0.12)
+
+==============================================================================
+Q15 (std 6) மாசுபாட்டின் வகைகள் யாவை?
+  gold EN : What are the types of pollution?
+  NLLB    : What Are the Types of Pollution?
+  Qwen    : What are the types of batteries?
+  GOLD    6_term3_ch4_aligned_align_00229 (9.12) Major types of pollution are four: air pollution, water pollution, land pollution, and noi
+  GOLD    6_term3_ch4_aligned_align_00160 (6.85) 4.6 Types of Pollution There are four major kinds of pollution: 1.
+  GOLD    6_term3_ch4_aligned_align_00156 (4.47) 4.5 Pollution Pollution occurs when the environment gets contaminated by wastes, chemicals
+  candidates: A=1624  Tamil-side=100  C=1639  D=1860
+  A HIT  00229(9.12)*; 00160(6.85)*; 00156(4.47)*
+  B MISS 00010(0.20)
+  C HIT  00229(9.12)*; 00160(6.85)*; 00156(4.47)*
+  D HIT  00229(9.12)*; 00160(6.85)*; 00156(4.47)*
+  E HIT  00229(1.00)*; 00084(0.95); 00160(0.73)*
+  F HIT  00229(1.00)*; 00085(0.55); 00160(0.48)*
+
+==============================================================================
+Q16 (std 7) அடிப்படை அலகுகள் மற்றும் வழி அலகுகள் என்றால் என்ன?
+  gold EN : What are fundamental units and derived units?
+  NLLB    : What are the basic units and the path units?
+  Qwen    : What are fundamental units and path units?
+  GOLD    7_term1_ch1_aligned_align_00017 (7.01) Their corresponding units are called fundamental units.
+  GOLD    7_term1_ch1_aligned_align_00106 (7.01) Their corresponding units are called fundamental units.
+  GOLD    7_term1_ch1_aligned_align_00002 (4.91) - Identify fundamental and derived units.
+  candidates: A=1659  Tamil-side=100  C=1675  D=1722
+  A MISS (nothing above floor)
+  B HIT  00017(6.65)*; 00106(6.65)*; 00018(1.71)
+  C MISS (nothing above floor)
+  D HIT  00017(6.65)*; 00106(6.65)*; 00018(1.71)
+  E HIT  00017(0.42)*; 00106(0.42)*; 00002(0.10)*
+  F HIT  00002(0.96)*; 00022(0.92); 00014(0.92)
+
+==============================================================================

@@ -1,0 +1,316 @@
+======================================================================
+Q1 (std 6) நிறையின் SI அலகு என்ன?
+  NLLB question: What is the SI unit of color?
+======================================================================
+Q2 (std 6) சீரான இயக்கம் என்றால் என்ன?
+  NLLB question: What is consistent movement?
+  all selected lines already use textbook Tamil
+======================================================================
+Q3 (std 6) கலவையைப் பிரித்தெடுக்கும் முறைகள் யாவை?
+  NLLB question: What methods are used to extract the mixture?
+----------------------------------------------------------------------
+  6_term1_ch3_aligned_align_00142  LaBSE=0.518 (WRONG)
+  English : LET US DO: methods involved in the above activities and also learn about a few other methods. Separation Techniques Why do we separate mixtures? To remove harmful impurities To extract a component from other components To obtain a component in highly pure form Separation of Solids 1. Hand picking Se
+  TEXTBOOK (check 0.03): மேலும்‌, வேறு சில பிரித்தெடுத்தல்‌ முறைகளைப்‌ பற்றியும்‌ அறிந்துக்கொள்வோம்‌.
+  NLLB     (check 0.92): LET US DO: மேற்கண்ட செயல்பாடுகளில் ஈடுபடும் முறைகள் மற்றும் வேறு சில முறைகளைப் பற்றி அறியவும். பிரித்தல் நுட்பங்கள் ஏன் நாம் கலவையை பிரிக்கிறோம்? தீங்கு விளைவிக்கும் மாசுபாடுகளை அகற்றுவது மற்ற கூறுகளிலிருந்து ஒரு கூறு பிரித்தெடுப்பது மிகவும் தூய வடிவத்தில் ஒரு கூறு பெறுவது.
+======================================================================
+Q4 (std 6) நலம் என்றால் என்ன?
+  NLLB question: What is goodness?
+  all selected lines already use textbook Tamil
+======================================================================
+Q5 (std 6) மின் மூலங்கள் என்றால் என்ன?
+  NLLB question: What are power sources?
+======================================================================
+Q6 (std 6) காந்த திசைகாட்டி என்றால் என்ன?
+  NLLB question: What is a magnetic compass?
+----------------------------------------------------------------------
+  6_term3_ch1_aligned_align_00045  LaBSE=0.497 (WRONG)
+  English : The navigators of that country used to keep a piece of lode stone suspended in their boats and during a storm or mist, they used the lode stone to locate directions. 1.6 Magnetic compass A compass is an instrument which is used to find directions. It is mostly used in ships and airplanes.
+  TEXTBOOK (check 0.08): கப்பல்கள்‌ மற்றும்‌ விமானங்களில்‌ காந்த திசைகாட்ரும்‌ கருவி பொதுவாக பயன்பருத்தப்பருகிறது.
+  NLLB     (check 0.32): 1.6 காந்த காம்பஸ் ஒரு காம்பஸ் என்பது வழிகாட்டுதல்களைக் கண்டறிய பயன்படுத்தப்படும் ஒரு கருவியாகும். இது பெரும்பாலும் கப்பல்கள் மற்றும் விமானங்களில் பயன்படுத்தப்படுகிறது.
+----------------------------------------------------------------------
+  6_term3_ch1_aligned_align_00048  LaBSE=0.656 (PARTIAL)
+  English : Ask your teacher to help you in using magnetic compass.
+  TEXTBOOK (check 0.00): காந்தை திலசகாட்டும் கருவிலய எவ்வாறு பயன்படுத்துவது என உங்கள் ஆசிரியரிடம் போகட்டு அறிந்து கொகாள்்ளவும்.
+  NLLB     (check 0.00): காந்த காம்பாஸைப் பயன்படுத்த உதவுமாறு உங்கள் ஆசிரியரிடம் கேளுங்கள்.
+----------------------------------------------------------------------
+  6_term3_ch1_aligned_align_00046  LaBSE=0.459 (WRONG)
+  English : As a rule, mountaineers also carry a compass with them so that they do not lose their way in unknown places. The compass has a magnetic needle that can rotate easily.
+  TEXTBOOK (check 0.00): மலையேறுபவர்கள்‌ தாங்கள்‌ திசைமாறி வேறு இடத்திற்குச்‌ செல்லாமலிருக்க இதை அவசியம்‌ எருத்துச்‌ செல்கின்றனர்‌.
+  NLLB     (check 0.00): மலை ஏறுபவர்கள் வழக்கமாக ஒரு வளைகுடாவையும் கொண்டு செல்வார்கள், இதனால் அவர்கள் தெரியாத இடங்களில் வழி தவறிவிட மாட்டார்கள். இந்த வளைகுடாவில் ஒரு காந்த ஊசி உள்ளது, அது எளிதாக சுழலும்.
+======================================================================
+Q7 (std 6) உள்ளீட்டுக் கருவிகள் யாவை?
+  NLLB question: What are the input tools?
+  all selected lines already use textbook Tamil
+======================================================================
+Q8 (std 6) காற்று மாசுபாட்டிற்கான காரணங்கள் யாவை?
+  NLLB question: What are the causes of air pollution?
+----------------------------------------------------------------------
+  6_term3_ch4_aligned_align_00167  LaBSE=0.670 (PARTIAL)
+  English : Air pollution is also caused by burning solid wastes, like some plastics, gases or chemicals released from factories and fumes from aerosols (like deodorant spray cans) or paints.
+  TEXTBOOK (check 0.62): நெகிழி போன்ற திடப்பொருள்களை எரிப்பதாலும்‌ பெயிண்ட்‌ தொழிற்சாலை மற்றும்‌ வாசனைத்‌ தைலங்கள்‌ தொழிற்சாலைகளிலிருந்து உருவாகும்‌ நீராவியும்‌ காற்றில்‌ கலப்பதால்‌ காற்று மாசுபாரு அடைகிறது.
+  NLLB     (check 0.98): தொழிற்சாலைகளில் இருந்து வெளியேறும் சில பிளாஸ்டிக், வாயுக்கள் அல்லது இரசாயனங்கள் மற்றும் ஏரோசால்ஸ் (டீசோரண்ட் ஸ்ப்ரே பட்டிகள்) அல்லது வண்ணப்பூச்சுகளிலிருந்து வரும் வாயுக்கள் போன்ற திட கழிவுகளை எரிப்பதன் மூலம் காற்று மாசுபாடு ஏற்படுகிறது.
+----------------------------------------------------------------------
+  6_term3_ch4_aligned_align_00157  LaBSE=0.608 (PARTIAL)
+  English : Pollution is the damage caused to the environment mainly because of human activities.
+  TEXTBOOK (check 0.05): இலதைத்தைான் மாசுபாடு என்கிபோைாம். மனிதைனின் கொசயல்பாடுக்ளால் சுற்றுச்சூழல் மாசலடகிைது.
+  NLLB     (check 0.18): மாசுபாடு என்பது மனித செயல்களால் ஏற்படும் சுற்றுச்சூழல் சேதமாகும்.
+======================================================================
+Q9 (std 6) செரிமான மண்டலம் என்றால் என்ன?
+  NLLB question: What is the digestive tract?
+  nothing selected (answer = insufficient)
+======================================================================
+Q10 (std 6) இயற்கை காந்தங்கள் என்றால் என்ன?
+  NLLB question: What are natural magnets?
+----------------------------------------------------------------------
+  6_term3_ch1_aligned_align_00087  LaBSE=0.581 (PARTIAL)
+  English : Points to remember Magnetites are natural magnets.
+  TEXTBOOK (check 0.00): நினைவில்‌ கொள்க காந்தத்தன்மையுடைய தாது மேக்னடைட்‌ என்று அழைக்கப்பருகிறது.
+  NLLB     (check 0.28): நினைவூட்டல் புள்ளிகள் இயற்கை காந்தங்கள்.
+----------------------------------------------------------------------
+  6_term3_ch1_aligned_align_00015  LaBSE=0.539 (WRONG)
+  English : Natural magnets do not have a definite shape.
+  TEXTBOOK (check 0.02): இலவ இயற்லகயான பாலைகள் என்பதைால் ஒரு குறிப்பிட்ட வடிவம் இவற்றிற்குக் கிலடயாது. போமக்னலடட் இயற்லகக் காந்ெம் எனப்படுகிைது.
+  NLLB     (check 0.06): இயற்கை காந்தங்கள் ஒரு குறிப்பிட்ட வடிவத்தைக் கொண்டிருக்கவில்லை.
+----------------------------------------------------------------------
+  6_term3_ch1_aligned_align_00013  LaBSE=0.444 (WRONG)
+  English : The name is also supposed to come after the name of the place (Magnesia) in which it was found. Magnetite, the ore with attracting property was found in that region. Magnetites are natural magnets.
+  TEXTBOOK (check 0.00): இப்பாலைகள் கண்டறியப்பட்ட 'கொமக்னீசியா' என்ை ஊரின் கொபயராலும் இப்கொபயர் வந்திருக்கைாம் எனக் கருதைப்படுகிைது.
+  NLLB     (check 0.00): மேக்னீசியா (Magnesia) கண்டுபிடிக்கப்பட்ட இடத்தின் பெயரிலிருந்து இந்த பெயர் வந்தது என்று கருதப்படுகிறது. மேக்னிடைட், ஈர்க்கக்கூடிய பண்புகளைக் கொண்ட கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்சா கச்
+======================================================================
+Q11 (std 7) அணுவின் அடிப்படைத் துகள்கள் யாவை?
+  NLLB question: What are the basic particles of the atom?
+  LEARNING-OBJECTIVES chunk selected: 7_term1_ch4_aligned_align_00001
+----------------------------------------------------------------------
+  7_term1_ch3_aligned_align_00102  LaBSE=0.635 (PARTIAL)
+  English : Atoms are the fundamental particles of an element. Molecules are the fundamental particles of a compound. 3.5  Chemical Formulae Often we write water as H,O.
+  TEXTBOOK (check 0.00): 3.5 வேதியியல்‌ வாய்ப்பா நாம்‌ நீரினை (1,௦ என்று எழுதுகின்றோம்‌.
+  NLLB     (check 0.99): அணுகள் ஒரு உறுப்பின் அடிப்படை துகள்கள். மூலக்கூறுகள் ஒரு கலவையின் அடிப்படை துகள்கள். 3.5 வேதியியல் சூத்திரங்கள் பெரும்பாலும் நாம் தண்ணீரை H,O என்று எழுதுகிறோம்.
+======================================================================
+Q12 (std 7) அணு எண் என்றால் என்ன?
+  NLLB question: What is the atomic number?
+======================================================================
+Q13 (std 7) நிறை எண் என்றால் என்ன?
+  NLLB question: What is a mass number?
+======================================================================
+Q14 (std 7) மகரந்தச் சேர்க்கையின் வகைகள் யாவை?
+  NLLB question: What are the types of incubation?
+  all selected lines already use textbook Tamil
+======================================================================
+Q15 (std 7) தொற்று நோய்கள் என்றால் என்ன?
+  NLLB question: What are infectious diseases?
+----------------------------------------------------------------------
+  7_term3_ch4_aligned_align_00061  LaBSE=0.349 (WRONG)
+  English : Today, many infectious diseases in the world are rare due to the advancement in antibiotic research.
+  TEXTBOOK (check 0.00): ஆண்டிபயாடிக்‌ தவிர, செயற்கை முறையில்‌ பல ஆண்டிபயாடிக்குகளை நம்மால்‌ உருவாக்க முடியும்‌.
+  NLLB     (check 0.06): இன்று, உலகில் பல தொற்று நோய்கள் அரிதானவை, ஏனெனில் நுண்ணுயிர் எதிர்ப்பிகள் ஆராய்ச்சியில் முன்னேற்றம் ஏற்பட்டுள்ளது.
+======================================================================
+Q16 (std 7) மின்கடத்தாப் பொருள்கள் என்றால் என்ன?
+  NLLB question: What are electromagnetic objects?
+  all selected lines already use textbook Tamil
+======================================================================
+Q17 (std 7) அம்மீட்டர் என்றால் என்ன?
+  NLLB question: What is an ammeter?
+----------------------------------------------------------------------
+  7_term2_ch2_aligned_align_00192  LaBSE=0.735 (PARTIAL)
+  English : Ammeters are always connected in series with the circuit to be tested.
+  TEXTBOOK (check 0.01): சோதிக்கப்பட வேண்டிய மின்‌ சுற்றில்‌ அம்மீட்டரானது தொடர்‌ இணைப்பில்‌ இணைக்கப்படவேண்ரும்‌.
+  NLLB     (check 0.11): அமெட்டர்கள் எப்போதும் சோதிக்கப்பட வேண்டிய சுற்றுடன் தொடர்ச்சியாக இணைக்கப்படுகின்றன.
+======================================================================
+Q18 (std 7) இருசொற் பெயரிடும் முறை என்றால் என்ன?
+  NLLB question: What is the two-word naming system?
+======================================================================
+Q19 (std 7) சமதள ஆடியில் தோன்றும் பிம்பத்தின் பண்புகள் யாவை?
+  NLLB question: What are the characteristics of an image appearing in plain sound?
+  LEARNING-OBJECTIVES chunk selected: 7_term3_ch1_aligned_align_00001
+  all selected lines already use textbook Tamil
+======================================================================
+Q20 (std 7) இயற்கை இழைகள் என்றால் என்ன?
+  NLLB question: What are natural fibers?
+======================================================================
+Q21 (std 7) வெப்பநிலையை அளக்கும் அலகுகள் யாவை?
+  NLLB question: What are the units that measure temperature?
+======================================================================
+Q22 (std 7) சுடரின் அமைப்பு என்ன?
+  NLLB question: What is the structure of the flame?
+----------------------------------------------------------------------
+  7_term3_ch4_aligned_align_00123  LaBSE=0.256 (WRONG)
+  English : Flame and its structure Fact: Chemical Reaction in Ignition: Oxygen + Heat + Fuel → Fire PAGE 73(PDF PAGE 77)
+  TEXTBOOK (check 0.03): ஆவி நிலையிலுள்ள எரிபொருள்‌, ஆக்ஸிஜன்‌, கார்பன்‌ டை ஆக்சைரு, கார்பன்‌ மோனாக்சைரு, நீராவி மற்றும்‌ பல எளிதில்‌ ஆவியாகிற பொருள்கள்‌ ஆகியவை சுடரின்‌ மேவேதிவினையாக்க்‌ கருதப்படுகின்றன.
+  NLLB     (check 0.00): நெருப்பும் அதன் அமைப்பும் உண்மைஃ எரியும் வேதியியல் எதிர்வினைஃ ஆக்ஸிஜன் + வெப்பம் + எரிபொருள் → தீ PAGE 73(PDF PAGE 77)
+======================================================================
+Q23 (std 6) இடமாறு தோற்றப் பிழை என்றால் என்ன?
+  NLLB question: What is a left-handed appearance error?
+  all selected lines already use textbook Tamil
+======================================================================
+Q24 (std 6) வேகம் என்றால் என்ன?
+  NLLB question: What is speed?
+----------------------------------------------------------------------
+  6_term1_ch2_aligned_align_00125  LaBSE=0.644 (PARTIAL)
+  English : The distance travelled by an object in unit time is called speed of the object.
+  TEXTBOOK (check 0.07): ஒரலகு காலத்தில் ஒரு பொருள் கடந்த தூரமே அதன் வேகமாகும்.
+  NLLB     (check 0.77): ஒரு பொருளின் நேர அலகுகளில் பயணித்த தூரம் பொருளின் வேகம் என்று அழைக்கப்படுகிறது.
+======================================================================
+Q25 (std 6) மின்கலன் என்றால் என்ன?
+  NLLB question: What is a power plant?
+----------------------------------------------------------------------
+  6_term2_ch2_aligned_align_00047  LaBSE=0.712 (PARTIAL)
+  English : Atomic power stations are also called as nuclear power stations. Here nuclear energy is converted into mechanical energy and then electrical energy.
+  TEXTBOOK (check 0.00): இங்கு அணுக்கரு ஆற்றலானது இயக்க ஆற்றலாகவும்‌ பின்‌ மின்னாற்றலாகவும்‌ மாற்றப்படுகிறது.
+  NLLB     (check 0.00): அணுசக்தி நிலையங்கள் அணுசக்தி நிலையங்கள் என்றும் அழைக்கப்படுகின்றன. இங்கு அணுசக்தி இயந்திர ஆற்றலாகவும், பின்னர் மின்சார ஆற்றலாகவும் மாற்றப்படுகிறது.
+======================================================================
+Q26 (std 6) காந்தப் பொருள்கள் என்றால் என்ன?
+  NLLB question: What are magnetic materials?
+======================================================================
+Q27 (std 6) ஆக்சிஜனின் பயன்கள் யாவை?
+  NLLB question: What are the benefits of oxygen?
+  nothing selected (answer = insufficient)
+======================================================================
+Q28 (std 6) மின் கடத்திகள் என்றால் என்ன?
+  NLLB question: What are electrical conductors?
+======================================================================
+Q29 (std 7) திசைவேகம் என்றால் என்ன?
+  NLLB question: What is velocity?
+----------------------------------------------------------------------
+  7_term1_ch2_aligned_align_00143  LaBSE=0.692 (PARTIAL)
+  English : SI unit of velocity is metre / second (m/s). The centre of gravity of an object is the point through which the entire weight of the object appears to act.
+  TEXTBOOK (check 0.00): முருக்கத்தின்‌ 5 அலகு மீ/வி^2 எப்புள்ளியில்‌ ஒரு பொருளின்‌ எடை முழுவதும்‌ செயல்பருவதுபோல்‌ தோன்றுகிறதோ அப்புள்ளியே அப்பொருளின்‌ ஈர்ப்பு மையம்‌ எனப்பரும்‌.
+  NLLB     (check 0.01): SI வேக அலகு மீட்டர் / வினாடி (m/s) ஆகும். ஒரு பொருளின் ஈர்ப்பு மையம் பொருளின் முழு எடையும் செயல்படுவதாகக் காணப்படும் புள்ளியாகும்.
+======================================================================
+Q30 (std 7) முடுக்கம் என்றால் என்ன?
+  NLLB question: What is acceleration?
+----------------------------------------------------------------------
+  7_term1_ch2_aligned_align_00140  LaBSE=0.704 (PARTIAL)
+  English : Acceleration is the rate of change in velocity.
+  TEXTBOOK (check 0.00): இடப்பெயர்ச்சி மாறும்‌ வீதம்‌ திசைவேகம்‌ எனப்பரும்‌.
+  NLLB     (check 0.05): துரிதப்படுத்தல் என்பது வேக மாற்றத்தின் விகிதம் ஆகும்.
+----------------------------------------------------------------------
+  7_term1_ch2_aligned_align_00062  LaBSE=0.468 (WRONG)
+  English : 2.3 Acceleration Acceleration is the rate of change of velocity.
+  TEXTBOOK (check 0.03): திசைவேகம்‌ மாறுபரும்‌ வீதம்‌ முருக்கம்‌ எனப்பரும்‌.
+  NLLB     (check 0.00): 2.3 துரிதப்படுத்தல் துரிதப்படுத்தல் என்பது வேக மாற்றத்தின் விகிதம் ஆகும்.
+----------------------------------------------------------------------
+  7_term1_ch2_aligned_align_00063  LaBSE=0.720 (PARTIAL)
+  English : In other words, if a body changes its speed or direction then it is said to be accelerated. acceleration=change in velocity/Time a =Final velocity (v) – Initial velocity (u)/Time a=(v – u)/t SI unit of acceleration is m/s^2 A car at rest starts to travel in a straight line path.
+  TEXTBOOK (check 0.04): வேறு வகையில்‌ கூறுவதானால்‌, ஒரு பொருளின்‌ வேகத்திலோ அல்லது திசையிலோ மாற்றம்‌ ஏற்பட்டால்‌ அப்பொருள்‌ முருக்கமடைகிறது எனக்‌ கருதப்படுகிறது. முருக்கம்‌ - திசைவேக மாறுபாரு / காலம்‌ இறுதித்‌ திசைவேகம்‌ (9) - ஆரம்பத்‌ திசைவேகம்‌ (0) ‌ காலம்‌ முருக்கத்தின்‌ 58 அலகு மீ/வி£ த்‌ ஓய்வுநிலையில்‌உள்ளஒரு ்‌ மகிழு
+  NLLB     (check 0.00): வேறு வார்த்தைகளில் கூறுவதானால், ஒரு உடல் அதன் வேகத்தை அல்லது திசையை மாற்றினால் அது துரிதப்படுத்தப்படும் என்று கூறப்படுகிறது. துரிதப்படுத்தல் = வேகத்தில் மாற்றம் / நேரம் a = இறுதி வேகம் (v)  ஆரம்ப வேகம் (u) / நேரம் a=(v  u) / t SI துரிதப்படுத்தல் அலகு m / s^2 ஓய்வில் இருக்கும் ஒரு கார் ஒரு நேர் கோடு 
+======================================================================
+Q31 (std 7) வெப்ப விரிவு என்றால் என்ன?
+  NLLB question: What is thermal expansion?
+  nothing selected (answer = insufficient)
+======================================================================
+Q32 (std 7) ஒளி எதிரொளிப்பு விதிகள் யாவை?
+  NLLB question: What are the rules of light reflection?
+----------------------------------------------------------------------
+  7_term3_ch1_aligned_align_00081  LaBSE=0.540 (WRONG)
+  English : Laws of reflection: 1. The angle of incidence is always equal to the angle of reflection. i = r 2.
+  TEXTBOOK (check 0.00): பரடுகோணமும்‌, எதிரொளிப்புக்‌ கோணமும்‌ சமம்‌ i=r.
+  NLLB     (check 0.02): பிரதிபலிப்பு விதிகள்ஃ 1. தாழ்வு கோணம் எப்போதும் பிரதிபலிப்பு கோணத்திற்கு சமம். i = r 2.
+----------------------------------------------------------------------
+  7_term3_ch1_aligned_align_00096  LaBSE=0.540 (WRONG)
+  English : The laws of reflection holds good for all surfaces irrespective of the shape.
+  TEXTBOOK (check 0.38): ஒளியின்‌ எதிரொளிப்பு விதி செயல்பருவது பரப்பின்‌ வடிவத்தைப்‌ பொருத்தது அன்று.
+  NLLB     (check 0.01): பிரதிபலிப்பின் சட்டங்கள் வடிவத்தைப் பொருட்படுத்தாமல் அனைத்து மேற்பரப்புகளுக்கும் பொருந்தும்.
+----------------------------------------------------------------------
+  7_term3_ch1_aligned_align_00106  LaBSE=0.604 (PARTIAL)
+  English : In each case, the law of reflection is followed, resulting in five reflected rays labelled A', B', C', D', and E'.
+  TEXTBOOK (check 0.04): எதிரொளிப்பு விதியின்‌ படி, A,B,C,D‌ மற்றும்‌ E என்பன எதிராளிப்புக்கதிர்கள்‌ ஆகும்‌.
+  NLLB     (check 0.00): ஒவ்வொரு சந்தர்ப்பத்திலும், பிரதிபலிப்புச் சட்டம் பின்பற்றப்படுகிறது, இதன் விளைவாக A', B', C', D' மற்றும் E' எனக் குறிக்கப்பட்ட ஐந்து பிரதிபலிப்புக் கதிர்கள் உருவாகின்றன.
+======================================================================
+Q33 (std 7) செயற்கை இழைகள் என்றால் என்ன?
+  NLLB question: What is synthetic fiber?
+----------------------------------------------------------------------
+  7_term3_ch3_aligned_align_00054  LaBSE=0.690 (PARTIAL)
+  English : Synthetic fibres such as nylon, polyester and acrylic are used to make many different plastic items you use in your daily life such as clothing, blankets, tooth brushes and stuffing in cushions.
+  TEXTBOOK (check 0.00): நைலான்‌, பாலியஸ்டர்‌ மற்றும்‌ அக்ரிலிக்‌ போன்ற பல இயற்கை இழைகளின்‌ பயன்பாட்டிற்கு பதிலாக பல்வேறு பிளாஸ்டிக்‌ பொருள்கள்‌ தயாரிக்க பயன்பருகிறது.
+  NLLB     (check 0.62): நைலான், பாலியஸ்டர் மற்றும் அக்ரிலிக் போன்ற செயற்கை இழைகள் உங்கள் அன்றாட வாழ்க்கையில் நீங்கள் பயன்படுத்தும் பல பிளாஸ்டிக் பொருட்களை உருவாக்க பயன்படுகின்றன, அதாவது ஆடைகள், துணிகள், பல் தூரிகைகள் மற்றும் தூரிகைகளில் நிரப்புதல்.
+======================================================================
+Q34 (std 7) தீயணைப்பான்களின் வகைகள் யாவை?
+  NLLB question: What are the types of fire extinguishers?
+======================================================================
+PART 1 SUMMARY
+questions: 34   answer lines selected: 107
+lines already using textbook Tamil: 84
+lines that would come from NLLB: 23
+learning-objectives chunks selected: 2
+LaBSE range     lines  textbook>=NLLB  textbook_check>=0.3
+0.00-0.50           6               2                    0
+0.50-0.55           4               1                    1
+0.55-0.60           1               0                    0
+0.60-0.65           4               1                    0
+0.65-0.70           4               1                    1
+0.70-0.74           4               1                    0
+
+======================================================================
+PART 2: every learning-objectives chunk in the books
+Standard 6: 9 chunks
+  6_term1_ch1_aligned_align_00001
+    EN: Learning Objectives: To understand the need for measurement in daily life.
+    TA: அன்றாட வாழ்வில்‌ அளவீடுகளின்‌ அவசியம்‌ பற்றி புரிந்து கொள்ளல்‌.
+  6_term1_ch2_aligned_align_00001
+    EN: Learning Objectives To identify that push or pull or both are involved when there is a motion.
+    TA: இயக்கம்‌ நடைபெறும்போது தள்ளுதல்‌, இழுத்தல்‌ அல்லது அவை இரண்டூம்‌ நடைபெறுகின்றன என்பதைக்‌ கண்டறிதல்‌.
+  6_term1_ch5_aligned_align_00001
+    EN: To understand that there are many kinds of animals.
+    TA: கற்றல் நோக்கங்கள் பலவகையான விலங்குகள்‌ உள்ளன என்பதனை அறிந்துகொள்ளல்‌. .
+  6_term1_ch7_aligned_align_00001
+    EN: To know about computers.
+    TA: கற்றல் நோக்கங்கள் கணினி குறித்து அறிந்து கொள்ளல்‌.
+  6_term2_ch3_aligned_align_00001
+    EN: Learning Objectives To recognize and enlist a few changes that happens in our day-to-day life.
+    TA: கற்றல் நோக்கங்கள் நம் அன்றாட வாழ்க்கையில் நடக்கும் ஒரு சில மாற்றங்களை அடையாளம் கண்டு பதிவு செய்தல்.
+  6_term2_ch4_aligned_align_00001
+    EN: Learning Objectives To identify the components and uses of air To develop skills in performing experiments and arriving at conclusions To Clarify the role of ox
+    TA: கற்றல் நோக்கங்கள் காற்றின் இயைபு மற்றும் பயன்களைப் பட்டியலிடுதல். சோதனைகளில் ஈடுபடுவதிலும், கருவிகளை கையாளுவதிலும் திறன் பெறுதல். எரிதலில் ஆக்சிஜனின் பயன்பாட்டை
+  6_term2_ch6_aligned_align_00001
+    EN: Introduction Organ systems are formed by the association of organs which are organized from tissues.
+    TA: கற்றல் நோக்கங்கள் மனித உடலின்‌ உறுப்புகள்‌ மற்றும்‌ உறுப்புமண்டலங்களின்‌ அமைப்பு மற்றும்‌ அதன்‌ பணிகளைப்‌ புரிந்து கொள்ளுதல்‌. மனித உடலில்‌ உள்ள பல்வேறு மண்டலங்
+  6_term3_ch5_aligned_align_00001
+    EN: Learning Objectives Able to acquire knowledge about various types and uses of plants. Able to understand the economic importance of plants.
+    TA: பல்போவறு வலகயான தைாவரங்கல்ளப் பற்றியும் அவற்றின் பயன்கள் பற்றியும் அறிந்து கொகாள்ளுதைல் தைாவரங்களின் கொபாரு்ளாதைார முக்கியத்துவத்லதைப் பற்றிப் புரிந்து கொகாள்ளு
+  6_term3_ch6_aligned_align_00001
+    EN: Learning Objectives To identify Software and Hardware of a computer. To distinguish the features of Hardware and software.
+    TA: கணினியின் வன்கொபாருள்கள் மற்றும் கொமன்கொபாருள்கல்ள இனம் காணுதைல் வன்கொபாருள்கள் மற்றும் கொமன்கொபாருள்கள் ஆகியவற்றின் தைன்லமகல்ள ஒப்பிட்டு அறிதைல் கொமன்கொபாருள்க
+Standard 7: 14 chunks
+  7_term1_ch1_aligned_align_00001
+    EN: Learning Objectives After studying this unit, students will be able to: - Identify fundamental and derived physical quantities.
+    TA: இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: அடிப்படை மற்றும்‌ வழி அளவுகளை அடையாளம்‌ காணல்‌.
+  7_term1_ch2_aligned_align_00001
+    EN: After studying this unit, students will be able to: define distance and displacement. differentiate distance and displacement. ae : define speed, velocity and a
+    TA: இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: தொலைவு மற்றும்‌ இடப்பெயர்ச்சியை வரையறுத்தல்‌. தொலைவு மற்றும்‌ இடப்பெயர்ச்சியை வேறுபருத்துதல்‌. வேகம்‌, தி
+  7_term1_ch3_aligned_align_00001
+    EN: After studying this unit, students will be able to: know about the molecules of elements and compounds. write the symbols of common elements. calculate the atom
+    TA: இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: க்க தனிமங்கள்‌ மற்றும்‌ சேர்மங்களின்‌ மூலக்கூறுகளை அறிந்து கொள்ளல்‌. க்‌ 0-2 ர்‌ பொதுவான தனிமங்களின்‌ குற
+  7_term1_ch4_aligned_align_00001
+    EN: After studying this unit, students will be able to: know the structure of an atom. know the position of the sub-atomic particles. understand and compare the pro
+    TA: இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: 147: அ அணுவின்‌ அமைப்பினைப்‌ பற்றி அறிந்துகொள்ளல்‌. ்‌்‌ அடிப்படைத்‌ துகள்கள்‌ அணுவில்‌ அமைந்திருக்கும்‌ 
+  7_term1_ch5_aligned_align_00001
+    EN: After studying this lesson, students will be able to: understand how a flower becomes a fruit with seed through pollination and fertilization. acquire knowledge
+    TA: இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: மகரந்தச்சேர்க்கை மற்றும்‌ கருவுறுதல்‌ மூலம்‌ தாவரங்களில்‌ ஒரு மலர்‌ எவ்வாறு கனியாக மாறுகிறது என்பதைப்‌ பு
+  7_term1_ch7_aligned_align_00001
+    EN: After learning the lesson, students will be able to: differentiate a file from a folder. know how to create a file and a folder. use the system application like
+    TA: இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: ய ன்ட்‌ [க] கோப்பு மற்றும்‌ கோப்புத்தொகுப்பை வேறுபருத்துதல்‌. கோப்பு மற்றும்‌ கோப்புத்தொகுப்பை உருவாக்குத
+  7_term2_ch1_aligned_align_00001
+    EN: Learning Objectives To understand the working principle of thermometer To measure temperature using thermometer To know about Thermometric Liquids To differenti
+    TA: கற்றல்‌ நோக்கங்கள்‌ வெப்பநிலைமானி வேலை செய்யும்‌ தத்துவத்தினை புரிந்து கொள்ளுதல்‌ . வெப்பநிலைமானியை பயன்பருத்தி வெப்பநிலையினை அளவிருதல். வெப்பநிலைமானி திரவங்கள்
+  7_term2_ch2_aligned_align_00001
+    EN: Learning Objectives Understanding the flow of electric current and learning to draw the circuit diagram Understanding the difference between conventional curren
+    TA: மின்‌ சுற்றுப்‌ படம்‌ வரையக்‌ கற்றுக்‌ கொள்ளுதல்‌. மரபு மின்னோட்டம்‌ மற்றும்‌ எலக்ட்ரான்களின்‌ ஓட்டத்தை வேறுபருத்தி அறிதல்‌. மின்‌ சுற்றுகளின்‌ வகைகளை, மின்னோட்
+  7_term2_ch6_aligned_align_00001
+    EN: Learning Objectives The students will be able to: know how to draw a picture through the software Tux Paint learn arithmetic calculations through the software T
+    TA: இந்த மென்பொருளின்‌ மூலம்‌ மாணவர்கள்‌ பெறும்‌ அடைவுகள்‌ பின்வருமாறு, மென்பொருளைப்‌ பயன்படுத்திப்‌ படம்‌ வரைதல்‌. மாணவர்களின்‌ படைப்பாற்றலை வளர்த்தல்‌. TUXMATH பய
+  7_term3_ch1_aligned_align_00001
+    EN: Learning Objectives The students will be able to understand that light is an energy differentiate natural and artificial light sources understand rectilinear pr
+    TA: கற்றல்நோக்கங்கன்‌  நோக்கங்கள்‌ ஒளி என்பது ஒரு வகை ஆற்றல்‌ என்பதை அறிந்து கொள்ளுதல்‌. இயற்கை மற்றும்‌ செயற்கை ஒளி மூலங்களை வேறுபருத்தி அறிந்து கொள்ளுதல்.‌ ஒளியின
+  7_term3_ch2_aligned_align_00001
+    EN: Learning Objectives The students are able to Explain the beginning of universe Know about galaxies and its types Recognise different constellations in the night
+    TA: பிரபஞ்சத்தின்‌ தோற்றத்தை அறிதல். விண்மீன்திரள்கள்‌ மற்றும்‌ அவற்றின்‌ வகைகள்‌ பற்றி அறிந்து கொள்ளுதல்‌ . இரவு வானத்தில்‌ தோன்றும்‌ விண்மீன்கூட்டங்களை அடையாளம்‌ 
+  7_term3_ch3_aligned_align_00001
+    EN: Learning Objectives Recognize various types of fibres Conduct activities to learn the characteristics of synthetic fibres List the advantages and disadvantages 
+    TA: செயற்கை இழைகளின்‌ பண்புகளை அறியும்‌ பொருட்டுச்‌ செயல்பாடுகளை மேற்கொள்வர்‌. செயற்கை இழைகளின்‌ நன்மைகளையும்‌ குறைபாருகளையும்‌ பட்டியலிருவர்‌. இளகும்‌ நெகிழிகளை இற
+  7_term3_ch4_aligned_align_00001
+    EN: Learning Objectives Understand the meaning of Medicines, Antibiotics, Analgesics, Antiseptics, Antihistamines, Antacids and Oral Rehydration Solution (ORS).
+    TA: மருத்துவம்‌, நுண்ணுயிர்க்கொல்லி, வலி நிவாரணி, நச்சுத்தடைபொருள்‌, ஒவ்வாமை பாதிப்பு நீக்க மருந்து (காரி), அமில நீக்கி, மற்றும்‌ ORS ஆகியவற்றைப்‌ பற்றி அறிந்துகொள்
+  7_term3_ch6_aligned_align_00001
+    EN: Learning Objectives After learning this lesson, the students will be able to: know how to create a document through the LibreOffice software explore their creat
+    TA: லிப்ருஆபிஸ்‌ மென்பொருள்‌ மூலம்‌ ஒரு ஆவணத்தை உருவாக்குவது எப்படி என்று தெரிந்து கொள்வார்கள்‌ . மாணவர்களின்‌ படைப்பு சிந்தனை அதிகரிக்கும்‌ . ஆவணத்தை ஒழுங்கமைக்கவு

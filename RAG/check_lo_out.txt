@@ -1,0 +1,146 @@
+6_term1_ch1_aligned_align_00001
+  Learning Objectives: To understand the need for measurement in daily life.
+6_term1_ch1_aligned_align_00002
+  To define length, mass and time.
+6_term1_ch1_aligned_align_00003
+  To evaluate the values of some physical quantities in terms of their units and sub-units.
+6_term1_ch1_aligned_align_00004
+  To identify zero error and parallax error.
+6_term1_ch1_aligned_align_00005
+  To construct measuring tools (models).
+6_term1_ch1_aligned_align_00006
+  To solve problems based on conversion of units.
+6_term1_ch2_aligned_align_00001
+  Learning Objectives To identify that push or pull or both are involved when there is a motion.
+6_term1_ch2_aligned_align_00002
+  To understand that some forces are contact forces and some are non-contact forces.
+6_term1_ch2_aligned_align_00003
+  To know that when a force is applied, it can make things move, change the direction or change its shape and size.
+6_term1_ch2_aligned_align_00004
+  To distinguish between rest and motion and understand that they are relative.
+6_term1_ch2_aligned_align_00005
+  To infer motion is caused by application of force.
+6_term1_ch2_aligned_align_00006
+  To classify different types of motion. To deduce the definition of speed.
+6_term1_ch2_aligned_align_00007
+  To understand and use the unit of speed.
+6_term1_ch2_aligned_align_00008
+  To distinguish uniform and non-uniform motion.
+6_term1_ch2_aligned_align_00009
+  To compute time, distance and speed.
+6_term1_ch3_aligned_align_00001
+  To define matter and develop an understanding on the particle nature of matter.
+6_term1_ch3_aligned_align_00002
+  To sort the objects on the basis of certain properties.
+6_term1_ch3_aligned_align_00003
+  To differentiate solids, liquids and gases based on the arrangement of their particles.
+6_term1_ch3_aligned_align_00004
+  To differentiate pure substances from mixtures.
+6_term1_ch3_aligned_align_00005
+  To identify the need for separation of mixtures.
+6_term1_ch3_aligned_align_00006
+  To suggest suitable methods for separating given samples of mixtures.
+6_term1_ch3_aligned_align_00007
+  To acquire an awareness on food adulteration and its harmful effects.
+6_term1_ch4_aligned_align_00001
+  To know about the varieties of plants.
+6_term1_ch4_aligned_align_00002
+  To know about the parts and functions of plants.
+6_term1_ch4_aligned_align_00003
+  To know the different forms of leaves, functions and their modifications.
+6_term1_ch4_aligned_align_00004
+  To understand that the food manufactured by plants is consumed by animals and human.
+6_term1_ch4_aligned_align_00005
+  To know the different types of habitats.
+6_term1_ch4_aligned_align_00006
+  To understand that plants exhibit adaptations and modifications based on the habitat.
+6_term1_ch4_aligned_align_00007
+  To know that life forms depend on each other.
+6_term1_ch5_aligned_align_00001
+  To understand that there are many kinds of animals.
+6_term1_ch5_aligned_align_00002
+  To identify the diversity seen both in plants and animals.
+6_term1_ch5_aligned_align_00003
+  To distinguish between unicellular and multicellular organisms.
+6_term1_ch5_aligned_align_00004
+  To identify the variations present in living forms according to their habitat.
+6_term1_ch5_aligned_align_00005
+  To list out the adaptations exhibited by the animals based on the habitat.
+6_term1_ch5_aligned_align_00006
+  To explain the relationship present between various living forms.
+6_term1_ch6_aligned_align_00001
+  To classify the different components of food.
+6_term1_ch6_aligned_align_00002
+  To evaluate the importance of nutrients present in food.
+6_term1_ch6_aligned_align_00003
+  To know about balanced diet.
+6_term1_ch6_aligned_align_00004
+  To list out the deficiency diseases.
+6_term1_ch6_aligned_align_00005
+  To describe personal hygiene.
+6_term1_ch6_aligned_align_00006
+  To differentiate the diseases caused by bacteria and virus.
+6_term1_ch7_aligned_align_00001
+  To know about computers.
+6_term1_ch7_aligned_align_00002
+  To know about the history of computers.
+6_term1_ch7_aligned_align_00003
+  To understand the growth and development of computers.
+6_term1_ch7_aligned_align_00004
+  To understand the generations of computers.
+6_term1_ch7_aligned_align_00005
+  To understand the types of computers.
+6_term1_ch7_aligned_align_00006
+  To apply the knowledge of computer in various fields in our day to day life.
+6_term2_ch3_aligned_align_00001
+  Learning Objectives To recognize and enlist a few changes that happens in our day-to-day life.
+6_term2_ch3_aligned_align_00002
+  To classify the observed  changes as, slow / fast, reversible / irreversible. physical and chemical changes. desirable /
+6_term2_ch3_aligned_align_00003
+  To explain the process of dissolution.
+6_term2_ch3_aligned_align_00004
+  To distinguish between a solvent and a solute.
+6_term2_ch4_aligned_align_00001
+  Learning Objectives To identify the components and uses of air To develop skills in performing experiments and arriving 
+6_term3_ch5_aligned_align_00001
+  Learning Objectives Able to acquire knowledge about various types and uses of plants. Able to understand the economic im
+6_term3_ch6_aligned_align_00001
+  Learning Objectives To identify Software and Hardware of a computer. To distinguish the features of Hardware and softwar
+7_term1_ch1_aligned_align_00001
+  Learning Objectives After studying this unit, students will be able to: - Identify fundamental and derived physical quan
+7_term1_ch2_aligned_align_00001
+  After studying this unit, students will be able to: define distance and displacement. differentiate distance and displac
+7_term1_ch3_aligned_align_00001
+  After studying this unit, students will be able to: know about the molecules of elements and compounds. write the symbol
+7_term1_ch4_aligned_align_00001
+  After studying this unit, students will be able to: know the structure of an atom. know the position of the sub-atomic p
+7_term1_ch5_aligned_align_00001
+  After studying this lesson, students will be able to: understand how a flower becomes a fruit with seed through pollinat
+7_term1_ch7_aligned_align_00001
+  After learning the lesson, students will be able to: differentiate a file from a folder. know how to create a file and a
+7_term2_ch1_aligned_align_00001
+  Learning Objectives To understand the working principle of thermometer To measure temperature using thermometer To know 
+7_term2_ch2_aligned_align_00001
+  Learning Objectives Understanding the flow of electric current and learning to draw the circuit diagram Understanding th
+7_term2_ch3_aligned_align_00001
+  To state the effect of heat on solid, liquid and gas and the associated changes in the arrangement of particles upon hea
+7_term2_ch3_aligned_align_00002
+  To identify the process as a physical change or chemical change based on its characteristics To clarify the process of r
+7_term2_ch4_aligned_align_00001
+  To compare the plant cell with the animal cell and understand their similarities and dissimilarities To understand the c
+7_term2_ch5_aligned_align_00001
+  To understand the need for dichotomous classification To classify animals according to their characteristic features To 
+7_term2_ch6_aligned_align_00001
+  Learning Objectives The students will be able to: know how to draw a picture through the software Tux Paint learn arithm
+7_term3_ch1_aligned_align_00001
+  Learning Objectives The students will be able to understand that light is an energy differentiate natural and artificial
+7_term3_ch2_aligned_align_00001
+  Learning Objectives The students are able to Explain the beginning of universe Know about galaxies and its types Recogni
+7_term3_ch3_aligned_align_00001
+  Learning Objectives Recognize various types of fibres Conduct activities to learn the characteristics of synthetic fibre
+7_term3_ch4_aligned_align_00001
+  Learning Objectives Understand the meaning of Medicines, Antibiotics, Analgesics, Antiseptics, Antihistamines, Antacids 
+7_term3_ch4_aligned_align_00002
+  Understands combustion and its types Recognizes flame and its structure.
+7_term3_ch6_aligned_align_00001
+  Learning Objectives After learning this lesson, the students will be able to: know how to create a document through the 

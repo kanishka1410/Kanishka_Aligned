@@ -1,0 +1,25 @@
+@"
+# Python environment and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# ChromaDB vector databases (rebuilt with ingest_from_json.py)
+6ALIGNED/6/
+6ALIGNED/7/
+7ALIGNED/7/
+8ALIGNED/8/
+chroma.sqlite3
+*.bin
+*.pickle
+
+# Aligned data with embeddings (shared separately)
+*_aligned.json
+
+# Generated / temporary files
+*.emb
+*.wav
+history.jsonl
+plots/
+"@ | Set-Content -Encoding utf8 .gitignore

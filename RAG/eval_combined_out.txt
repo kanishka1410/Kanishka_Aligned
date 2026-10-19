@@ -1,0 +1,548 @@
+======================================================================
+Q1 (std 6) நீளம், நிறை மற்றும் காலம் என்றால் என்ன?
+  NLLB: What are length, mass, and time?   gold EN: What are length, mass and time?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.99 en=  9.3 GOLD நீளம், நிறை மற்றும் காலம் ஆகியவை சில அடிப்படை இயற்பியல் அளவு
+    ta=1.00 en=  6.5 GOLD நீளம்‌, நிறை மற்றும்‌ காலம்‌ ஆகியவற்றை வரையறுத்தல்‌.
+    ta=0.19 en=  4.5 GOLD இந்தப்‌ பாடத்தில்‌ நீளம்‌, எடை, பருமன்‌ மற்றும்‌ காலம்‌ போன்
+    ta=0.87 en=  3.9 rel  SI அலகுகள் நீளம் - மீட்டர், நிறை - கிலோகிராம், காலம் - விநாட
+======================================================================
+Q2 (std 6) சுழிப் பிழை என்றால் என்ன?
+  NLLB: What is a loophole?   gold EN: What is zero error?
+  OLD          rel=0 off=0
+  NEW0.6       rel=0 off=0
+  NEW0.7       rel=0 off=0
+  NEW0.8       rel=0 off=0
+  NEW0.9       rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+======================================================================
+Q3 (std 6) தொடு விசைக்கும் தொடா விசைக்கும் உள்ள வேறுபாடு என்ன?
+  NLLB: What is the difference between a touch key and a touch key?   gold EN: What is the difference between contact force and non-contact force?
+  OLD     HIT  rel=3 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=1 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.97 en=-10.0 GOLD தொடுவிசை, தொடாவிசை விசைகள்‌ பொதுவாக இரண்டாக வகைப்படூத்தப்படு
+    ta=0.85 en=-10.1 rel  சில விசைகள்‌ தொடு விசைகளாகவும்‌, சில விசைகள்‌ தொடா விசைகளாகவ
+    ta=0.80 en= -8.9 GOLD சில விசைகள்‌ தொடூ விசைகள்‌ என்பதையும்‌, சில விசைகள்‌ தொடா வி
+    ta=0.80 en= -9.1 GOLD இத்தகைய விசைகள்‌ தொடா விசைகள்‌ என அழைக்கப்படுகின்றன.
+======================================================================
+Q4 (std 6) திண்மம், திரவம், வாயு ஆகியவற்றை வேறுபடுத்துக.
+  NLLB: Distinguish between dust, liquid, and gas.   gold EN: Distinguish between solids, liquids and gases.
+  OLD     HIT  rel=2 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.96 en= -0.5 GOLD இரண்டு முக்கியப்‌ பண்புகளின்‌ அடிப்படையில்‌ திண்மம்‌, திரவம்
+    ta=0.90 en=  2.9 GOLD திண்ம்‌, திரவம்‌ மற்றும்‌ வாயுக்களை அவற்றின்‌ துகள்‌ அமைப்பி
+    ta=0.92 en= -2.5 rel  பருப்பொருள்களை வகைப்படுத்தல்‌ மேற்கண்ட பண்புகளின்‌ அடிப்படைய
+    ta=0.61 en=  2.1 GOLD துகள்களின்‌ அமைப்பு மற்றும்‌ துகள்களுக்கிடையே உள்ள ஈர்ப்பு வ
+======================================================================
+Q5 (std 6) தூய பொருள் என்றால் என்ன? கலவை என்றால் என்ன?
+  NLLB: What is pure matter? What is composition?   gold EN: What is a pure substance? What is a mixture?
+  OLD     HIT  rel=2 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=2 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.95 en=  1.8 rel  ஒரு தூய பொருள்‌ என்பது ஒரே மாதிரியான துகள்களைக்‌ கொண்ட தனிமம
+    ta=0.69 en=  2.8 GOLD ஒரு தூய பொருள்‌ என்பது ஒரே தன்மையான துகள்களால்‌ மட்டூமே ஆனது
+    ta=0.85 en= -4.5 GOLD ஒரு கலவை என்பது ஒன்றுக்கு மேற்பட்ட ஒரே தன்மையுடைய துகள்களைக்
+    ta=0.84 en= -3.5 rel  தூய பொருள்களையும்‌, கலவைகளையும்‌ வேறுபடுத்துதல்‌.
+======================================================================
+Q6 (std 6) சமச்சீர் உணவு என்றால் என்ன?
+  NLLB: What is a balanced diet?   gold EN: What is a balanced diet?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.01 en=  9.3 GOLD உடல்நலத்தை உறுதி செய்யக்கூடிய பல்வேறு ஊட்டச்சத்துக்களை சரிவி
+    ta=0.16 en=  8.4 GOLD சரிவிகித உணவு நமது உடல்‌ வளர்ச்சிக்கும்‌ செயல்பாட்டிற்கும்‌ 
+    ta=0.02 en=  6.8 GOLD கீழ்க்காணும் காரணங்களுக்காக சரிவிகித உணவு அவசியமாகும்.
+    ta=0.02 en=  3.6 rel  சரிவிகித உணவு பற்றிய அறிவைப்‌ பெருக்கிக்‌ கொள்ளல்‌.
+======================================================================
+Q7 (std 6) குறைபாட்டு நோய்கள் யாவை?
+  NLLB: What are disabilities?   gold EN: What are deficiency diseases?
+  OLD     HIT  rel=3 off=0
+  NEW0.6  HIT  rel=3 off=0
+  NEW0.7  HIT  rel=3 off=0
+  NEW0.8  HIT  rel=2 off=0
+  NEW0.9       rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.86 en= -9.4 GOLD நமது உணவில்‌ போதிய அளவு ஊட்டச்சத்து இல்லாததால்‌ ஏற்படும்‌ நோ
+    ta=0.80 en= -8.9 rel  அவை: கார்போஹைட்டேட்டுகள்‌, புரதங்கள்‌, கொழுப்புகள்‌, வைட்டமி
+    ta=0.77 en= -7.3 rel  மாலைக்கண்‌ நோய்‌, ஸ்கர்வி, ரிக்கட்ஸ்‌, பெரி பெரி ஆகியவை வைட்
+======================================================================
+Q8 (std 6) கணினியின் தலைமுறைகள் யாவை?
+  NLLB: What are the generations of computers?   gold EN: What are the generations of computers?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.63 en=  6.3 GOLD நாம்‌ தற்போது பயன்படுத்துவது ஐந்தாம்‌ தலைமுறைக்‌ கணினி.
+    ta=0.97 en=  4.8 GOLD கணினியின்‌ தலைமுறைகளைளப்்‌ புரிந்து கொள்ளல்‌.
+    ta=0.05 en=  3.6 GOLD நுண்‌ செயலி என்பது நான்காம்‌ தலைமுறைக்‌ கணினியில்‌ பயன்படுத்
+    ta=0.24 en=  3.6 rel  ஒருங்கிணைந்த சுற்று மூன்றாம்‌ தலைமுறைக்‌ கணினியில்‌ பயன்படுத
+======================================================================
+Q9 (std 6) மின்சுற்று என்றால் என்ன?
+  NLLB: What is an electrical circuit?   gold EN: What is an electric circuit?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=1.00 en=  8.9 GOLD மின்சுற்று என்பது மின்கலத்தின்‌ நேர்முனையிலிருந்து எதிர்முனை
+    ta=0.01 en=  5.4 GOLD ௮) மின்கலன்‌ (அ) மின்கல அடுக்கு - மின்னோட்டத்தைத்‌ தரும்‌ மூ
+    ta=0.98 en=  4.1 GOLD டார்ச்‌ விளக்கின்‌ உட்புற அமைப்பிற்கான படம்‌ மின்சுற்று என்ப
+    ta=0.67 en=  3.2 rel  மின்கலன்‌, சாவி, மின்விளக்கு மற்றும்‌ இணைப்புக்கம்பி போன்றவற
+======================================================================
+Q10 (std 6) கரைப்பான் மற்றும் கரைபொருள் என்றால் என்ன?
+  NLLB: What are solvents and solvents?   gold EN: What are solvent and solute?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.98 en=  8.1 GOLD கரைப்பான் என்பது கரைபொருளைக் கரைக்கக்கூடிய பொருளாகும்.
+    ta=0.99 en= -0.0 GOLD கரைபொருள் என்பது கரைப்பானில் கரையக்கூடிய பொருளாகும்.
+    ta=0.01 en=  1.9 rel  நீர் ஒரு பொது கரைப்பான்.
+    ta=0.00 en=  1.9 rel  கருத்துப்படம் மற்றும் கலைப் பொருளுக்கு இடையேயுள்ள வேறுபாட்டி
+======================================================================
+Q11 (std 6) காற்றின் கூறுகள் யாவை?
+  NLLB: What are the elements of air?   gold EN: What are the components of air?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.04 en=  4.9 GOLD காற்றில்‌ நைட்ரஜன்‌ 78%, ஆக்சிஜன்‌ 21%, கார்பன்‌-டை-ஆக்சைடூ 
+    ta=0.04 en=  4.6 rel  நைட்ரஜனையும்‌, ஆக்சிஜனையும்‌ தவிர, காற்றில்‌ சிறிதளவு கார்பன
+    ta=0.06 en=  4.2 GOLD காற்றின்‌ பெரும்பகுதி நைட்ரஜன்‌ வாயு ஆகும்‌.
+    ta=0.39 en=  3.0 rel  ஆக்ஸிஜன்‌, நைட்ரஜன்‌, கார்பன்‌ டை ஆக்ஸைடு, நீராவி, மந்த வாயு
+======================================================================
+Q12 (std 6) ஒரு செல் உயிரிகளுக்கும் பல செல் உயிரிகளுக்கும் உள்ள வேறுபாடு என்ன?
+  NLLB: What is the difference between single-celled organisms and multicellular organisms?   gold EN: What is the difference between unicellular and multicellular organisms?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.98 en=  9.0 GOLD சில உயிரினங்கள்‌ ஒரே செல்லால்‌ ஆனவை. அவை ஒரு செல்‌ உயிரிகள்‌
+    ta=0.98 en=  7.5 GOLD ஒற்றை செல் உயிரினங்கள் மற்றும் பல செல் உயிரினங்கள் ஒரு செல் 
+    ta=0.11 en=  6.4 rel  ஸ்பைரோகைரா, மாமாம்‌, மற்றும்‌ மனிதன்‌ போன்றவை பல செல்‌ உயிரி
+    ta=0.81 en=  6.2 rel  உயிரினங்கள்‌ ஒரு செல்‌ கொண்டூ ஒரு செல்‌ உயிரினமாக இருக்கலாம்
+======================================================================
+Q13 (std 6) மனித உடலின் முக்கிய உறுப்பு மண்டலங்கள் யாவை?
+  NLLB: What are the major organs of the human body?   gold EN: What are the major organ systems of the human body?
+  OLD     HIT  rel=1 off=2
+  NEW0.6  HIT  rel=2 off=2
+  NEW0.7  HIT  rel=2 off=2
+  NEW0.8  HIT  rel=2 off=2
+  NEW0.9  HIT  rel=2 off=2
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.97 en=  6.4 GOLD நமது உடலில்‌ எட்டூ பிரதான உறுப்பு மண்டலங்கள்‌ உள்ளன.
+    ta=0.98 en= -2.0 GOLD அவை எலும்பு மண்டலம்‌. நாளமில்லாச்‌ சுரப்பி மண்டலம்‌. கழிவு ந
+    ta=0.98 en= -6.9 NOT  கற்றல் நோக்கங்கள் மனித உடலின்‌ உறுப்புகள்‌ மற்றும்‌ உறுப்பும
+    ta=0.43 en=  2.4 NOT  நமது உடலில்‌ ஐந்து உணர்‌ உறுப்புகள்‌ உள்ளன. அவை கண்கள்‌, காத
+======================================================================
+Q14 (std 6) காந்தத்தின் பண்புகள் யாவை?
+  NLLB: What are the properties of magnetism?   gold EN: What are the properties of a magnet?
+  OLD     HIT  rel=3 off=0
+  NEW0.6  HIT  rel=3 off=0
+  NEW0.7  HIT  rel=3 off=0
+  NEW0.8  HIT  rel=3 off=0
+  NEW0.9  HIT  rel=3 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  3.3 GOLD 1.7 காந்தங்களின்‌ ஈர்ப்பும்‌, விலக்கமும்‌ இரண்ரு சட்டக்காந்த
+    ta=0.13 en=  0.9 GOLD வெப்பப்பருத்தும்‌ பொழுதோ, உயரத்திலிருந்து கீழே போரும்பொழுதோ,
+    ta=0.02 en=  0.9 GOLD வெப்பப்பருத்தும்‌ பொழுதோ, உயரத்திலிருந்து கீழே போரும்பொழுதோ,
+======================================================================
+Q15 (std 6) மாசுபாட்டின் வகைகள் யாவை?
+  NLLB: What Are the Types of Pollution?   gold EN: What are the types of pollution?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=1.00 en=  9.1 GOLD மாசுபாட்டை நாம்‌ நான்கு வகைகளாப்‌ பிரிக்கலாம்‌ அவை காற்றுமாச
+    ta=0.48 en=  6.9 GOLD மாசுபாட்டின் முக்கிய நான்கு வலககள் பின்வருமாறு.
+    ta=0.04 en=  4.5 GOLD 4.5 மாசுபாடு நம் சுற்றுச்சூழலில் போதைலவயற்ை, தீங்கு வி ல ்ள 
+    ta=0.03 en=  4.4 rel  தொல்லுயிர்‌ படிம எரிபொருள்களான எண்ணெய்‌, பெட்ரோல்‌, நிலக்கரி
+======================================================================
+Q16 (std 7) அடிப்படை அலகுகள் மற்றும் வழி அலகுகள் என்றால் என்ன?
+  NLLB: What are the basic units and the path units?   gold EN: What are fundamental units and derived units?
+  OLD     HIT  rel=3 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=3 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.96 en= -5.2 GOLD அடிப்படை மற்றும்‌ வழி அலகுகளை அடையாளம்‌ காணல்‌.
+    ta=0.92 en= -4.1 rel  வழி அளவுகளை அளவிடப்‌ பயன்படும்‌ அலகுகள்‌ வழி அலகுகள்‌ எனப்பர
+    ta=0.92 en= -9.8 rel  1.1 அடிப்படை மற்றும்‌ வழி அளவுகள்‌ பொதுவாக இயற்பியல்‌ அளவுகள
+    ta=0.89 en=-10.0 rel  அடிப்படை அளவுகளைப்‌ பெருக்கியோ அல்லது வகுத்தோ பெறப்பரும்‌ அள
+======================================================================
+Q17 (std 7) தொலைவு மற்றும் இடப்பெயர்ச்சி ஆகியவற்றுக்கு இடையேயான வேறுபாடு என்ன?
+  NLLB: What is the difference between distance and displacement?   gold EN: What is the difference between distance and displacement?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.63 en=  3.4 GOLD தொலைவு மற்றும்‌ இடப்பெயர்ச்சி இவை இரண்ரும்‌ ஒரே அலகால்‌ குறி
+    ta=0.01 en=  2.4 GOLD எனவே, எந்தப்‌ பாதையில்‌ அவர்‌ பயணம்‌ செய்தாலும்‌ அவரது இடப்ப
+    ta=0.08 en=  2.4 GOLD அப்பொருள்‌ பயணம்‌ செய்த மொத்தத்‌ தொலைவு 120 மீ மற்றும்‌ அதன்
+    ta=0.00 en=  2.1 rel  இவற்றின்‌ 3 அலகு மீட்டர்‌ (மீ) ஆகும்‌. ஒருவர்‌ & என்ற இடத்தி
+======================================================================
+Q18 (std 7) அணு என்றால் என்ன? மூலக்கூறு என்றால் என்ன?
+  NLLB: What is a nucleus? What is a molecule?   gold EN: What is an atom? What is a molecule?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  2.6 rel  ஓர்‌ அணுவில்‌ நேர்மின்சுமை கொண்ட புரோட்டான்களும்‌, மின்சுமைய
+    ta=0.89 en=  0.6 GOLD 3.2 மூலக்கூறுகள்‌ ஒரு அணுவானது மற்றொரு அணு அல்லது அணுக்களுடன
+    ta=0.59 en=  0.0 GOLD இரண்ரு அல்லது அதற்கு மேற்பட்ட அணுக்கள்‌ வேதிப்பிணைப்பினால்‌ 
+    ta=0.49 en=  0.0 rel  இரண்டு அல்லது அதற்கு மேற்பட்ட அணுக்கள்‌ வேதிப்பிணைப்பின்‌ மூ
+======================================================================
+Q19 (std 7) தாவரங்கள் எவ்வாறு இனப்பெருக்கம் செய்கின்றன?
+  NLLB: How do plants reproduce?   gold EN: How do plants reproduce?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=1.00 en=  7.9 GOLD தாவரங்கள்‌ விதைகளின்‌ மூலம்‌ மட்டுமல்லாமல்‌, பிற வழிகளிலும்‌
+    ta=0.94 en=  7.2 GOLD விதைகளின்‌ மூலம்‌ தாவரங்கள்‌ உருவாகும்‌ நிகழ்ச்சியை நாம்‌ பா
+    ta=1.00 en=  5.9 GOLD தாவரங்களில்‌ இரண்ரு வகையான இனப்பெருக்க முறைகள்‌ காணப்பருகின்
+    ta=0.48 en=  5.8 rel  தாஹங்களும்‌,விலங்குகளும்‌ இளம்‌ உயிரிகளை உருவாக்கிதங்களது எண
+======================================================================
+Q20 (std 7) நோய்கள் ஏற்படுவதற்கான காரணங்கள் யாவை?
+  NLLB: What are the causes of illness?   gold EN: What are the causes of diseases?
+  OLD          rel=1 off=0
+  NEW0.6       rel=1 off=1
+  NEW0.7       rel=1 off=1
+  NEW0.8       rel=1 off=1
+  NEW0.9       rel=1 off=1
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.96 en= -3.1 NOT  ஒரு நபருக்கு நோய்‌ எற்பருவதற்கான காரணங்கள்‌ பின்வருமாறு.
+    ta=0.09 en=  0.5 rel  பல பொதுவான நோய்கள்‌ ஊட்டச்சத்தின்மை காரணமாக ஏற்பருகின்றன.
+======================================================================
+Q21 (std 7) கணினியில் கோப்பு மற்றும் கோப்புறையை எவ்வாறு உருவாக்குவது?
+  NLLB: How to create a file and folder on the computer?   gold EN: How to create a file and a folder in a computer?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.24 en=  3.5 GOLD இப்பாடத்தைக்‌ கற்றபின்‌ மாணவர்கள்‌ பெறும்‌ திறன்களாவன: ய ன்ட
+    ta=0.00 en=  2.3 GOLD மெனு பட்டியில் உள்ள சேமி (Save) பொத்தானை அழுத்தவும்.
+    ta=0.02 en=  2.0 GOLD அதில்‌ நமக்குத்‌ தேவையான 1௦98௱ ஐத்‌ தேர்வு செய்து நமது தேவைக
+    ta=0.00 en=  1.1 rel  இந்த folder இல்‌ நாம்‌ உருவாக்கிய file களை விருப்பப்படி சேமி
+======================================================================
+Q22 (std 7) வெப்பநிலை என்றால் என்ன?
+  NLLB: What is temperature?   gold EN: What is temperature?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.75 en=  6.8 GOLD நமது அன்றாட வாழ்வின்‌ பல நிகழ்வுகளில்‌ வெப்பநிலையானது முக்கி
+    ta=0.71 en=  6.8 GOLD வெப்பநிலையானது ஒரு பொருளில்‌ உள்ள அணுக்கள்‌ எவ்வளவு மேவேகமாக
+    ta=0.97 en=  5.9 GOLD ஒரு பொருளின்‌ வெப்பத்தினையும்‌ குளிர்ச்சியையும்‌ அளவிருவதையே
+    ta=0.08 en=  4.7 rel  இது நமது உடலில்‌ உடல்‌ வெப்பநிலை 370 (98.67) இருந்து வளியேறு
+======================================================================
+Q23 (std 7) தொடர் மற்றும் பக்க இணைப்பு மின்சுற்று என்றால் என்ன?
+  NLLB: What is a series and side connection circuit?   gold EN: What are series and parallel circuits?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  5.5 GOLD மின்விளக்கு மற்றும்‌ மின்கலனைப்‌ பயன்பருத்தி நாம்‌ ஒரே ஒரு ம
+    ta=0.91 en=  4.8 rel  தொடர்‌ சுற்று - மின்னோட்ட பாய்வதற்கான ஒரே ஒரு பாதையைக்‌ கொண்
+    ta=0.00 en=  4.1 rel  ஒன்றுக்கு மேற்பட்ட ர்‌ மின்விளக்குகள்‌ மற்றும்‌ மின்கலன்களைப
+    ta=0.00 en=  3.5 GOLD மின்சுற்றின்‌ வகைகள்‌ மேற்காண்‌ சோதனையில்‌, நாம்‌ மின்விளக்க
+======================================================================
+Q24 (std 7) இயற்பியல் மாற்றம் மற்றும் வேதியியல் மாற்றம் என்றால் என்ன?
+  NLLB: What is physical change and what is chemical change?   gold EN: What are physical change and chemical change?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.90 en=  8.7 GOLD ஒரு பொருளின்‌ வேதி இயைபில்‌ மாற்றம்‌ எதும்‌ நிகழாமல்‌ அதனுடை
+    ta=0.94 en=  7.8 GOLD 3.2 இயற்பியல்‌ மாற்றங்கள்‌ ஒரு பொருளின்‌ வேதியியல்‌ இயைபில்‌
+    ta=0.39 en=  6.5 GOLD இயற்பியல்‌ மாற்றத்தால்‌ பொருளின்‌ வேதியியல்‌ இயைபில்‌ எதும்‌
+    ta=0.51 en=  5.7 rel  3.4 வேதியியல்‌ மாற்றங்கள்‌ மாறுபட்ட வேதியியல்‌ இயைபுடன்‌ புத
+======================================================================
+Q25 (std 7) தாவர செல்லுக்கும் விலங்கு செல்லுக்கும் உள்ள வேறுபாடுகள் யாவை?
+  NLLB: What are the differences between plant and animal mammals?   gold EN: What are the differences between a plant cell and an animal cell?
+  OLD     HIT  rel=3 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=3 off=0
+  NEW0.9  HIT  rel=3 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.52 en=  4.5 GOLD உடல்‌ விலங்கு செல்களால்‌ ஆனது. £ல்‌ தாவரங்கள்‌ தாவர செல்களால
+    ta=0.01 en=  3.0 GOLD செல்கள்‌ ஒழுங்கான, திடமான வடிவத்தைக்‌ கொண்டிருக்கின்றன.
+    ta=0.84 en=  1.3 GOLD இப்போது தாவர மற்றும்‌ விலங்கு செல்களுக்கிடையே உள்ள முக்கிய ஒ
+    ta=0.75 en= -5.8 rel  தாவர பை டா8ட்டந்‌' செல்களில்‌ மட்ரும்‌ பசுமை நிற நுண்ணுறுப்ப
+======================================================================
+Q26 (std 7) இரு கிளைப் பகுப்பு முறை என்றால் என்ன?
+  NLLB: What is the two-branch system?   gold EN: What is dichotomous classification?
+  OLD          rel=0 off=0
+  NEW0.6       rel=0 off=0
+  NEW0.7       rel=0 off=0
+  NEW0.8       rel=0 off=0
+  NEW0.9       rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+======================================================================
+Q27 (std 7) ஒளி எவ்வாறு பிரதிபலிக்கிறது?
+  NLLB: How does light react?   gold EN: How is light reflected?
+  OLD          rel=0 off=1
+  NEW0.6       rel=0 off=1
+  NEW0.7       rel=0 off=1
+  NEW0.8       rel=0 off=1
+  NEW0.9       rel=0 off=1
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.02 en=  1.6 NOT  பொருள்களோடு ஒளியின்‌ செயல்பாரு தெளிவான ஒரு கண்ணாடித்‌ துண்டு
+======================================================================
+Q28 (std 7) இஸ்ரோவின் பணிகள் யாவை?
+  NLLB: What is the mission of ISRO?   gold EN: What are the functions of ISRO?
+  OLD     HIT  rel=3 off=1
+  NEW0.6  HIT  rel=3 off=1
+  NEW0.7  HIT  rel=3 off=1
+  NEW0.8  HIT  rel=3 off=1
+  NEW0.9  HIT  rel=3 off=1
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  5.9 GOLD இதன்‌ நோக்கம்‌ "விண்டுவளி ஆராய்ச்சி மற்றும்‌ கிரக ஆய்வின்‌ ம
+    ta=0.37 en=  5.4 GOLD பெங்களூருவை தலைமையிடமாகக்‌ கொண்ட விண்வெளி ஆராய்ச்சி நிலையம்‌
+    ta=0.36 en=  5.1 rel  இஸ்ரோ 2008, அக்டோபர்‌ 22 அன்று சந்திரயான்‌ - 1 என்னும்‌ சந்த
+    ta=0.02 en=  3.0 NOT  இந்தியாவின்‌ முதல்‌ செயற்கைக்கோளான ஆரியபட்டா இஸ்ரோவினால்‌ கட
+======================================================================
+Q29 (std 7) பலபடிகள் (பாலிமர்கள்) என்றால் என்ன?
+  NLLB: What are polymers?   gold EN: What are polymers?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.14 en=  8.9 GOLD ஒற்றைப்படிகள்‌ என்ற சிறிய மூலக்கூறுகளின்பலஎண்ணிக்கையிலான உரு
+    ta=0.98 en=  8.9 GOLD பல எண்ணிக்கையிலான ஒற்றைப்படிகள்‌ (monopolymer) சக பிணைப்புகள
+    ta=0.56 en=  4.7 GOLD பலபடி பலபடிகளை நாம்‌ இயற்கை பலபடி என்றும்‌ செயற்கை பலபடி என்
+    ta=0.09 en=  4.4 rel  இயற்கை பலபடிகள்‌ உயிரினங்களின்‌ உடல்களில்‌ காணப்பரும்‌ புரதங
+======================================================================
+Q30 (std 7) எரிதல் என்றால் என்ன? அதன் வகைகள் யாவை?
+  NLLB: What is burning? What are its types?   gold EN: What is combustion? What are its types?
+  OLD     HIT  rel=2 off=2
+  NEW0.6  HIT  rel=2 off=2
+  NEW0.7  HIT  rel=2 off=2
+  NEW0.8  HIT  rel=2 off=2
+  NEW0.9  HIT  rel=2 off=2
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  4.0 NOT  பாதிப்பின்‌ வீரியத்திற்கு ஏற்ப தீக்காயங்கள்‌ மூன்று வகைப்பரு
+    ta=0.97 en= -0.1 GOLD எறிதலின்‌ வகைகள்‌: மூன்று வகை எரிதல்‌ செயல்கள்‌ நடைபெறுகின்ற
+    ta=0.23 en=  2.9 GOLD எரிதலின்‌ தன்மை மற்றும்‌ அவற்றின்‌ வகைகளைப்‌ பற்றி அறிந்துகொ
+    ta=0.01 en=  1.1 NOT  வகுப்பு A – மரம், காகிதம் மற்றும் துணி போன்ற எரியக்கூடிய திட
+======================================================================
+Q31 (std 6) இடமாறு தோற்றப் பிழை என்றால் என்ன?
+  NLLB: What is a left-handed appearance error?   gold EN: What is parallax error?
+  OLD     HIT  rel=1 off=0
+  NEW0.6  HIT  rel=1 off=0
+  NEW0.7  HIT  rel=1 off=0
+  NEW0.8  HIT  rel=1 off=0
+  NEW0.9  HIT  rel=1 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=1.00 en= -6.0 GOLD இடமாறு தோற்றப்பிழை ஒரு பொருளின்‌ தோற்ற நிலையை இரு வேறு பார்வ
+======================================================================
+Q32 (std 6) வேகம் என்றால் என்ன?
+  NLLB: What is speed?   gold EN: What is speed?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.32 en=  6.5 GOLD சராசரி வேகம்‌ - கடந்த தொலைவு / எடூத்துக்கொண்ட காலம்‌ (s=d/t0
+    ta=0.02 en=  5.0 GOLD எனவே, வேகமான இயக்கம்‌, மெதுவான இயக்கம்‌ இவையிரண்டும்‌ ஒன்றுட
+    ta=0.07 en=  5.0 GOLD ஒரலகு காலத்தில் ஒரு பொருள் கடந்த தூரமே அதன் வேகமாகும்.
+    ta=0.11 en=  4.1 rel  வேகம்‌ (s) = கடந்த தொலைவு (d) /எடுத்துக்கொண்ட காலம்‌ (t) = 1
+======================================================================
+Q33 (std 6) மின்கலன் என்றால் என்ன?
+  NLLB: What is a power plant?   gold EN: What is an electric cell?
+  OLD          rel=0 off=2
+  NEW0.6  HIT  rel=3 off=1
+  NEW0.7  HIT  rel=3 off=1
+  NEW0.8  HIT  rel=3 off=1
+  NEW0.9  HIT  rel=2 off=2
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.95 en= -5.4 GOLD 2.2 மின்கலன்‌ மின்கலன்‌ என்பது வதியாற்றைலை மின்னாற்றலாக மாற்
+    ta=0.93 en= -4.5 rel  வேதி ஆற்றலை மின்னாற்றலாக மாற்றும்‌ சாதனம்‌ மின்கலன்‌ எனப்படு
+    ta=0.84 en=  -   rel  ௮) மின்கலன்‌ (அ) மின்கல அடுக்கு - மின்னோட்டத்தைத்‌ தரும்‌ மூ
+    ta=0.00 en=  0.8 NOT  இங்கு அணுக்கரு ஆற்றலானது இயக்க ஆற்றலாகவும்‌ பின்‌ மின்னாற்றல
+======================================================================
+Q34 (std 6) காந்தப் பொருள்கள் என்றால் என்ன?
+  NLLB: What are magnetic materials?   gold EN: What are magnetic materials?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.71 en=  4.5 GOLD 1.3 காந்தத்தன்மையுள்ள மற்றும்‌ காந்தத்தன்மையற்ற பொருள்கள்‌ க
+    ta=0.24 en=  4.1 GOLD இரும்பு, கோபால்ட்‌, நிக்கல்‌ போன்றவை காந்தத்தன்மை உள்ள பொருள
+    ta=0.98 en=  3.0 rel  காந்தத்தால்கவரப்படும்‌ பொருள்கள்‌ காந்தத்தன்மையுடைய பொருள்கள
+    ta=0.94 en=  3.6 GOLD காந்தத்தால்‌ ஈர்க்கப்படக்கூடிய பொருள்கள்‌ காந்தத்தன்மை உள்ள 
+======================================================================
+Q35 (std 6) ஆக்சிஜனின் பயன்கள் யாவை?
+  NLLB: What are the benefits of oxygen?   gold EN: What are the uses of oxygen?
+  OLD          rel=0 off=0
+  NEW0.6       rel=0 off=0
+  NEW0.7       rel=0 off=0
+  NEW0.8       rel=0 off=0
+  NEW0.9       rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+======================================================================
+Q36 (std 6) மின் கடத்திகள் என்றால் என்ன?
+  NLLB: What are electrical conductors?   gold EN: What are electrical conductors?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.91 en=  5.5 GOLD அவ்வாறு எந்தெந்த பொருள்கள்‌ தன்‌ வழியே மின்னூட்டங்களைச்‌ செல
+    ta=0.99 en=  5.5 GOLD தன்‌ வழியே மின்னூட்டங்களைச்‌ செல்ல அனுமதிக்கும்‌ பொருள்கள்‌ 
+    ta=0.53 en=  4.3 GOLD மின் க்டத்திகள் கடத்தியில்‌ மின்னூட்டங்கள்‌ பாயும்‌ வீதமே மி
+    ta=0.59 en=  2.8 rel  அரிதிற்‌ கடத்திகள்‌ (மின்‌ கடத்தாப்‌ பொருள்கள்‌) எந்தெந்தப்‌
+======================================================================
+Q37 (std 7) திசைவேகம் என்றால் என்ன?
+  NLLB: What is velocity?   gold EN: What is velocity?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.09 en=  9.1 GOLD திசைவேகம்‌ மாறும்‌ வீதம்‌ முருக்கம்‌ எனப்பரும்‌.
+    ta=0.28 en=  7.4 GOLD 2.2.2 திசைவேகம்‌ இடப்பெயர்ச்சி மாறுபரும்‌ வீதம்‌ திசைவேகம்‌ 
+    ta=0.59 en=  5.8 GOLD டப்பெயர்ச்சி திசைவேகம்‌ (V)=இபயர்ச்சி/காலம்‌ திசைவேகத்தின்‌ 
+    ta=0.00 en=  3.7 rel  முருக்கத்தின்‌ 5 அலகு மீ/வி^2 எப்புள்ளியில்‌ ஒரு பொருளின்‌ எ
+======================================================================
+Q38 (std 7) முடுக்கம் என்றால் என்ன?
+  NLLB: What is acceleration?   gold EN: What is acceleration?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  9.2 GOLD இடப்பெயர்ச்சி மாறும்‌ வீதம்‌ திசைவேகம்‌ எனப்பரும்‌.
+    ta=0.03 en=  7.5 GOLD திசைவேகம்‌ மாறுபரும்‌ வீதம்‌ முருக்கம்‌ எனப்பரும்‌.
+    ta=0.04 en=  5.7 GOLD வேறு வகையில்‌ கூறுவதானால்‌, ஒரு பொருளின்‌ வேகத்திலோ அல்லது த
+    ta=0.01 en=  1.7 rel  2.3.3 சீரான முருக்கம்‌ ஒரு பொருளின்‌ திசை வேகத்தில்‌ சீரான க
+======================================================================
+Q39 (std 7) வெப்ப விரிவு என்றால் என்ன?
+  NLLB: What is thermal expansion?   gold EN: What is thermal expansion?
+  no gold chunk -- not counted
+  OLD     --   rel=0 off=0
+  NEW0.6  --   rel=0 off=0
+  NEW0.7  --   rel=0 off=0
+  NEW0.8  --   rel=0 off=0
+  NEW0.9  --   rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+======================================================================
+Q40 (std 7) ஒளி எதிரொளிப்பு விதிகள் யாவை?
+  NLLB: What are the rules of light reflection?   gold EN: What are the laws of reflection?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.00 en=  4.9 GOLD பரடுகோணமும்‌, எதிரொளிப்புக்‌ கோணமும்‌ சமம்‌ i=r.
+    ta=0.79 en=  4.5 rel  ஒளியானது, எதிரொளிப்பு விதியின்படி அனைத்துப்பரப்புகளிலும்‌ எத
+    ta=0.38 en=  3.2 GOLD ஒளியின்‌ எதிரொளிப்பு விதி செயல்பருவது பரப்பின்‌ வடிவத்தைப்‌ 
+    ta=0.04 en=  2.9 GOLD எதிரொளிப்பு விதியின்‌ படி, A,B,C,D‌ மற்றும்‌ E என்பன எதிராளி
+======================================================================
+Q41 (std 7) செயற்கை இழைகள் என்றால் என்ன?
+  NLLB: What is synthetic fiber?   gold EN: What are synthetic fibres?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=0.08 en=  7.1 GOLD நைலான்‌ : செயற்கை இழை முதன்முதலில்‌ முழுமையாகப்‌ பதப்பருத்தப
+    ta=0.81 en=  6.6 GOLD பெட்ரோலியத்திலிருந்து பெறப்பட்ட மூலப்பொருள்களைக்கொண்டுஉருவாக
+    ta=0.00 en=  6.4 GOLD நைலான்‌, பாலியஸ்டர்‌ மற்றும்‌ அக்ரிலிக்‌ போன்ற பல இயற்கை இழை
+    ta=0.15 en=  6.1 rel  பாலியெஸ்டர் மற்றும் அக்ரிலிக்: செயற்கை இழைகள் பாலியெஸ்டர் மற
+======================================================================
+Q42 (std 7) தீயணைப்பான்களின் வகைகள் யாவை?
+  NLLB: What are the types of fire extinguishers?   gold EN: What are the types of fire extinguishers?
+  OLD     HIT  rel=4 off=0
+  NEW0.6  HIT  rel=4 off=0
+  NEW0.7  HIT  rel=4 off=0
+  NEW0.8  HIT  rel=4 off=0
+  NEW0.9  HIT  rel=4 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+    ta=1.00 en= 10.8 GOLD தீயணைப்பானின்‌ வகைகள்‌: வெவ்வேறு வகையான அணைப்பான்கள்‌ பல்வேற
+    ta=1.00 en=  9.5 GOLD தீயனைப்பான்‌ ஐந்து வகையாக வகைப்பருத்தப்ருகிறது அவை 1.நீர்‌  
+    ta=0.16 en=  5.7 GOLD தீ அணைப்பான்‌ ஒரு தீயணைப்பு கருவியானது காற்று அல்லது எரிபொரு
+    ta=0.02 en=  4.0 rel  ஒரு தீயணைப்பு கருவியானது காற்றின்‌ விநியோகத்தை துண்டிக்கிறது
+======================================================================
+Q43 (std 6) கருந்துளை என்றால் என்ன?
+  NLLB: What is a black cow?   gold EN: None
+  OLD     --   rel=0 off=0
+  NEW0.6  --   rel=0 off=0
+  NEW0.7  --   rel=0 off=0
+  NEW0.8  --   rel=0 off=0
+  NEW0.9  --   rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+======================================================================
+Q44 (std 7) அணுக்கரு பிளவு என்றால் என்ன?
+  NLLB: What is nuclear fission?   gold EN: None
+  OLD     --   rel=0 off=0
+  NEW0.6  --   rel=0 off=0
+  NEW0.7  --   rel=0 off=0
+  NEW0.8  --   rel=0 off=0
+  NEW0.9  --   rel=0 off=0
+  chunks chosen by NEW0.7 (Tamil check score, GOLD/rel/NOT):
+======================================================================
+SUMMARY: 41 questions with a gold chunk, 2 should-refuse questions
+Tamil check time: avg 6.0s per question
+method   hits  relevant-lines  off-topic-lines  refuse-violations
+OLD        35            123                8                  0
+NEW0.6     36            134                8                  0
+NEW0.7     36            134                8                  0
+NEW0.8     36            132                8                  0
+NEW0.9     35            123                9                  0

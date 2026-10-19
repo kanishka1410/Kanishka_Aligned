@@ -1,0 +1,535 @@
+======================================================================
+PART 1: DAMAGED TAMIL TEXT
+
+STANDARD 6: 2764 chunks
+chapter              chunks  labse  %labse<0.6  bad/chunk  rare%  ru-hits
+6_term1_ch1             165  0.74         15%       0.01     25        0
+6_term1_ch2             236  0.69         22%       0.01     23        0
+6_term1_ch3             265  0.70         18%       0.01     22        0
+6_term1_ch4             190  0.70         21%       0.02     25        0
+6_term1_ch5             127  0.74          9%       0.01     22        0
+6_term1_ch6             155  0.74         13%       0.00     25        0
+6_term1_ch7             102  0.74         13%       0.02     22        0
+6_term2_ch2             119  0.72         18%       0.10     25        0
+6_term2_ch3              76  0.74         17%       0.00     19        0
+6_term2_ch4             177  0.72         12%       0.01     25        1
+6_term2_ch5              90  0.60         39%       0.00     21        0
+6_term2_ch6             134  0.74         11%       0.01     25        0
+6_term2_ch7              67  0.67         33%       0.00     29        0
+6_term3_ch1             107  0.61         37%       0.60     28       15
+6_term3_ch2             166  0.75         10%       0.37     27       45
+6_term3_ch3             159  0.67         25%       0.47     31       40
+6_term3_ch4             265  0.68         27%       0.71     30       37
+6_term3_ch5             133  0.75         11%       0.53     29       25
+6_term3_ch6              31  0.59         52%       0.45     34        4
+
+'ரு for டு' candidates in standard 6 (50 word forms), most frequent first:
+  காணப்பரும்  ->  காணப்படும்   (x18, correct form x34)
+  இரண்ரு  ->  இரண்டு   (x10, correct form x44)
+  பயன்பருகிறது  ->  பயன்படுகிறது   (x10, correct form x13)
+  எனப்பரும்  ->  எனப்படும்   (x10, correct form x59)
+  எனப்பருகின்றன  ->  எனப்படுகின்றன   (x9, correct form x12)
+  ஏற்பரும்  ->  ஏற்படும்   (x9, correct form x18)
+  காணப்பருகிறது  ->  காணப்படுகிறது   (x8, correct form x9)
+  அழைக்கப்பருகின்றன  ->  அழைக்கப்படுகின்றன   (x6, correct form x11)
+  பயன்பருத்தும்  ->  பயன்படுத்தும்   (x6, correct form x15)
+  கொண்ரு  ->  கொண்டு   (x5, correct form x43)
+  மட்ருமே  ->  மட்டுமே   (x5, correct form x14)
+  மீண்ரும்  ->  மீண்டும்   (x5, correct form x29)
+  பயன்பருத்தி  ->  பயன்படுத்தி   (x5, correct form x22)
+  ஏற்பருத்தும்  ->  ஏற்படுத்தும்   (x5, correct form x6)
+  ஒட்ரும்  ->  ஒட்டும்   (x4, correct form x8)
+  வெப்பப்பருத்தும்  ->  வெப்பப்படுத்தும்   (x3, correct form x4)
+  பயன்பருகின்றன  ->  பயன்படுகின்றன   (x3, correct form x9)
+  எருத்து  ->  எடுத்து   (x3, correct form x9)
+  எருத்துக்  ->  எடுத்துக்   (x3, correct form x12)
+  மட்ரும்  ->  மட்டும்   (x3, correct form x4)
+  எருத்துக்கொள்ளவும்  ->  எடுத்துக்கொள்ளவும்   (x2, correct form x3)
+  அழைக்கப்பருகிறது  ->  அழைக்கப்படுகிறது   (x2, correct form x10)
+  காணப்பருகின்றன  ->  காணப்படுகின்றன   (x2, correct form x21)
+  தேவைப்பருகிறது  ->  தேவைப்படுகிறது   (x2, correct form x8)
+  வீருகளில்  ->  வீடுகளில்   (x2, correct form x3)
+  வகைப்பருத்தலாம்  ->  வகைப்படுத்தலாம்   (x2, correct form x7)
+  பெறப்பருகின்றன  ->  பெறப்படுகின்றன   (x2, correct form x3)
+  கொண்ருள்ளன  ->  கொண்டுள்ளன   (x1, correct form x12)
+  விருகின்றன  ->  விடுகின்றன   (x1, correct form x2)
+  செயல்பாருகளை  ->  செயல்பாடுகளை   (x1, correct form x4)
+  குரும்பம்  ->  குடும்பம்   (x1, correct form x2)
+  துண்ருகளாக  ->  துண்டுகளாக   (x1, correct form x2)
+  தேவைப்பருகின்றன  ->  தேவைப்படுகின்றன   (x1, correct form x4)
+  சேர்க்கப்பரும்  ->  சேர்க்கப்படும்   (x1, correct form x2)
+  பயன்பருத்தப்பட்டன  ->  பயன்படுத்தப்பட்டன   (x1, correct form x2)
+  காருகள்  ->  காடுகள்   (x1, correct form x7)
+  பயன்பருத்துகின்றன  ->  பயன்படுத்துகின்றன   (x1, correct form x2)
+  கடத்தப்பருகிறது  ->  கடத்தப்படுகிறது   (x1, correct form x5)
+  கொண்ருள்ள  ->  கொண்டுள்ள   (x1, correct form x2)
+  பயன்பருத்திய  ->  பயன்படுத்திய   (x1, correct form x6)
+
+15 most damaged chunks in standard 6 (rare% x bad):
+  6_term3_ch5_aligned_align_00070  labse=0.66 bad=8 rare=71%
+    TA: போமலும் வீடுகள், போதைாட்டங்கள் மற்றும் பூங்காக்கல்ள அழகுபடுத்தை கொசம்பருத்தி, நந்தியாவட்லட, குபோராட்டன்ஸ் போபான்ை கொபருஞ்கொசடிகளும், முல்லை, அைமான்டா,
+    EN: To decorate houses, gardens and parks we are planting shrubs such as Hibiscus, Grape, Jasmine and Crotons and climbers like Mullai, Allamanda and Boug
+  6_term2_ch2_aligned_align_00084  labse=0.50 bad=10 rare=30%
+    TA: பக்க இணைப்பு மின்சுற்று ஒன்றுக்கு மேற்பட்ட மின்‌ விளக்குகள்‌ இணையாக இருக்குமாறு சாவிகள்‌, மின்கலன்‌ மற்றும் இ்தணப்புகம்பி்கள் காண்டு உருவாக்கப்படுவது 
+    EN: Parallel Circuit If two or more bulbs are connected in parallel in a circuit, then that type of circuit is called parallel circuit.
+  6_term3_ch3_aligned_align_00012  labse=0.56 bad=5 rare=100%
+    TA: கலரசலில் ஏதைாவது நிைமாற்ைம் ஏற்படுகின்ைதைா?
+    EN: Is there any change in colour of the solution?
+  6_term3_ch5_aligned_align_00001  labse=0.56 bad=8 rare=31%
+    TA: பல்போவறு வலகயான தைாவரங்கல்ளப் பற்றியும் அவற்றின் பயன்கள் பற்றியும் அறிந்து கொகாள்ளுதைல் தைாவரங்களின் கொபாரு்ளாதைார முக்கியத்துவத்லதைப் பற்றிப் புரிந்த
+    EN: Learning Objectives Able to acquire knowledge about various types and uses of plants. Able to understand the economic importance of plants.
+  6_term3_ch3_aligned_align_00013  labse=0.64 bad=7 rare=43%
+    TA: மஞ்சள் நிைமாகபோவ உள்்ளதைா? அல்ைது போவறு நிைத்திற்கு மாறுகின்ைதைா?
+    EN: Is it also turning to yellow or to some other colour?
+  6_term3_ch5_aligned_align_00069  labse=0.48 bad=5 rare=75%
+    TA: மைர் தைரும் தைாவரங்கல்ள வ்ளர்க்கும் மைர்வ்ளர்ப்பு போதைாட்டக்கலையின் முக்கியப் பிரிவாக இருக்கிைது. (எ.கா) மல்லிலக, போராோ, கொசவ்வந்தி, கார்போனஷன், கொேர்
+    EN: Producing flowers from floral plant is the important section of horticulture. eg: Jasmine, Rose, Chrysanthemum, Carnation, Jerbara etc.
+  6_term3_ch2_aligned_align_00055  labse=0.61 bad=5 rare=73%
+    TA: போமகங்கல்ளச் சுற்றியுள்்ள காற்ைானது குளிர்ச்சியலடயும்போபாது இந்தை நீர் மலழயாகபோவா அல்ைது பனியாகபோவா புவிலய வந்தைலடகின்ைது.
+    EN: When the air around the clouds is cool these drops of water fall in the form of snow or rain.
+  6_term3_ch5_aligned_align_00079  labse=0.79 bad=4 rare=83%
+    TA: ஒரு பூவிலிருந்து மற்கொைாரு பூவிற்கு இப்பூச்சிகள் கொசல்லும்போபாது தைங்கள் உடலில் ஒட்டியுள்்ள மகரந்தைத்தூள்கல்ள விட்டுவிட்டுச் கொசல்கின்ைன.
+    EN: As the insects go from one flower to another, they leave the pollen grains from their body.
+  6_term3_ch5_aligned_align_00010  labse=0.68 bad=5 rare=62%
+    TA: அப்படங்களில் உள்்ளவர்கள் என்ன கொசய்கிைார்கள் என்பலதை உங்க்ளால் கண்டுபிடிக்க முடிகிைதைா?
+    EN: Can you identify what they are doing?
+  6_term3_ch6_aligned_align_00019  labse=0.55 bad=6 rare=41%
+    TA: கணினி பயன்பாடுகள்‌ ெம ெபா உ வா க 1. ெமாழி 2. ெமாழி – ெமாழி ெபய 3. (Linker) 4. (Loader)... பயன்பாட்டு மென்பொருள்‌ (இறறாம்வர்ரா $௦லா6) ஒரு குறிப்பிட்ட ப
+    EN: 6.4 System and Application Software types The operating system and application software are available in two forms.
+  6_term3_ch2_aligned_align_00062  labse=0.70 bad=5 rare=60%
+    TA: இவவுைகம் முழுவதும் நீரிலனப் பயன்படுத்தினாலும் நீரின் இம்மூன்று நிலைகளும் புவியில் காணப்படும் நீரின் அ்ளவிலன மாற்்ற இயைாவண்ணம் நிலையாக லவத்துள்்ளன.
+    EN: These three states occur in nature, keep the total amount of water on the arth constant even when the whole world is using it!
+  6_term3_ch5_aligned_align_00072  labse=0.86 bad=5 rare=60%
+    TA: 5.7 ொவரங்களுக்கும், விைங்குகளுக்கும் இல்டபோயயான உ்றவுமுல்ற விைங்கு – ொவர இல்டவிலனகள் விலங்குகள்‌ தனது உணவு, வசிப்பிடம்‌ உள்ளிட்ட தேவைகளுக்குத்‌ தாவரங்
+    EN: 5.7 Interrelationship between plants and animals Animal-plant Interactions Animals rely on plants for their food and shelter.
+  6_term3_ch1_aligned_align_00070  labse=0.58 bad=6 rare=39%
+    TA: டீசல், கொபட்போரால் போபான்ை எரிகொபாருள்கல்ளப் பயன்படுத்தைாமல், நாம் போமபோை குறிப்பிட்ட காந்தை ஈர்ப்பு மற்றும் விைக்கு விலசகல்ளக் கொகாண்டு இந்தை அதிபோவக
+    EN: It does not require diesel or petrol. This technology uses the property of magnetic attraction and repulsion to run these super fast electromagnetic t
+  6_term3_ch4_aligned_align_00085  labse=0.67 bad=4 rare=78%
+    TA: தி்டக்கழிவுகள் (குப்லபத்கொதைாட்டியிலுள்்ள கழிவுகள்), திரவக்கழிவுகள் (சாக்கலடக் கழிவுகள்), வாயுக்கழிவுகள் (கொதைாழிற்சாலை மாசுபாடுகள்)
+    EN: There is liquid waste (in our drains), there are gases hiding in the air (like pollutants from factories) and there is solid waste (garbage) we put in
+  6_term3_ch4_aligned_align_00261  labse=0.59 bad=5 rare=57%
+    TA: இது ஒப்பிடுலகயில் குலைவான அ்ளவாக இருந்தைாலும், மக்கள் கொதைாலக அதிகமுள்்ள இந்திய நாட்டு மக்களினால் உருவாக்கப்படும் கொமாத்தை கழிவுகல்ளக் கருத்தில் கொகாண
+    EN: It may be small amount of waste. But, India has a large population and imagine you collected all the waste today and put it into tractors.
+
+STANDARD 7: 3373 chunks
+chapter              chunks  labse  %labse<0.6  bad/chunk  rare%  ru-hits
+7_term1_ch1             167  0.70         19%       0.05     12        5
+7_term1_ch2             169  0.67         30%       0.10     19        7
+7_term1_ch3             184  0.72         18%       0.51     22        6
+7_term1_ch4             135  0.75         11%       0.21     19       10
+7_term1_ch5             276  0.67         30%       0.03     22       17
+7_term1_ch6             188  0.77          6%       0.14     32        5
+7_term1_ch7              82  0.75          7%       0.10     26        4
+7_term2_ch1             151  0.66         28%       0.15     19        8
+7_term2_ch2             244  0.54         52%       0.07     22        7
+7_term2_ch3             292  0.71         15%       0.03     19        8
+7_term2_ch4             130  0.68         22%       0.04     22        4
+7_term2_ch5             162  0.66         28%       0.11     22       12
+7_term2_ch6              29  0.61         28%       0.00     35        2
+7_term3_ch1             277  0.63         35%       0.08     17        6
+7_term3_ch2             271  0.75          9%       0.01     24        8
+7_term3_ch3             336  0.68         22%       0.04     25       16
+7_term3_ch4             177  0.65         28%       0.07     27        2
+7_term3_ch6             103  0.75         10%       0.04     21        1
+
+'ரு for டு' candidates in standard 7 (30 word forms), most frequent first:
+  கொண்ரு  ->  கொண்டு   (x32, correct form x36)
+  இரண்ரு  ->  இரண்டு   (x17, correct form x43)
+  தண்ரு  ->  தண்டு   (x14, correct form x20)
+  மீண்ரும்  ->  மீண்டும்   (x12, correct form x30)
+  கொண்ருள்ளது  ->  கொண்டுள்ளது   (x8, correct form x18)
+  ஆண்ரு  ->  ஆண்டு   (x6, correct form x22)
+  கொருக்கப்பட்ருள்ளன  ->  கொருக்கப்பட்டுள்ளன   (x5, correct form x6)
+  கருதப்பருகிறது  ->  கருதப்படுகிறது   (x4, correct form x7)
+  தண்ருகள்  ->  தண்டுகள்   (x3, correct form x5)
+  ரு  ->  டு   (x3, correct form x4)
+  கண்ரு  ->  கண்டு   (x3, correct form x5)
+  எருத்துக்கொண்ட  ->  எடுத்துக்கொண்ட   (x2, correct form x4)
+  எருத்துக்காட்ரு  ->  எருத்துக்காட்டு   (x2, correct form x3)
+  குண்ரு  ->  குண்டு   (x1, correct form x2)
+  ரூதர்போர்ரு  ->  ரூதர்போர்டு   (x1, correct form x3)
+  கொருக்கப்பட்ட  ->  கொடுக்கப்பட்ட   (x1, correct form x4)
+  மொட்ருகள்  ->  மொட்டுகள்   (x1, correct form x3)
+  பூண்ரு  ->  பூண்டு   (x1, correct form x3)
+  செய்யப்பரும்  ->  செய்யப்படும்   (x1, correct form x2)
+  டைபாய்ரு  ->  டைபாய்டு   (x1, correct form x2)
+  ஏற்பருவதில்லை  ->  ஏற்படுவதில்லை   (x1, correct form x2)
+  மேற்கொண்ரு  ->  மேற்கொண்டு   (x1, correct form x2)
+  காட்டப்பட்ருள்ள  ->  காட்டப்பட்டுள்ள   (x1, correct form x3)
+  ஏற்பட்ரு  ->  ஏற்பட்டு   (x1, correct form x4)
+  கண்ருபிடியுங்கள்  ->  கண்டுபிடியுங்கள்   (x1, correct form x2)
+  உண்ரு  ->  உண்டு   (x1, correct form x4)
+  கண்ணாடித்துண்ரு  ->  கண்ணாடித்துண்டு   (x1, correct form x4)
+  காட்ருகிறது  ->  காட்டுகிறது   (x1, correct form x3)
+  கொடுக்கப்பட்ருள்ள  ->  கொடுக்கப்பட்டுள்ள   (x1, correct form x2)
+  பயன்பருத்தவும்  ->  பயன்படுத்தவும்   (x1, correct form x2)
+
+15 most damaged chunks in standard 7 (rare% x bad):
+  7_term1_ch3_aligned_align_00025  labse=0.71 bad=24 rare=30%
+    TA: மூலக்கூறுக்ள நபாம் கீழக்கபாணுமபாறு வ்கப்டுததைலபாம். • ஓசர ஒரு அணு்வக் பகபாணட மூலக்கூறுகள் ஓரணு மூலககூறு்கள எனப்டுகின்்றன (மந்தை வபாயுக்கள்). • இரணடு ம
+    EN: Molecules can be classified as below. A molecule which contains only one atom is called monatomic molecule (Inert gases). A molecule which contains tw
+  7_term1_ch6_aligned_align_00167  labse=0.14 bad=12 rare=33%
+    TA: அம்‌ மம னை ைை வையை ைைைைைைைைவைவை யை வையை வையை வையை ல்‌ இவ ஆ 3. ்‌ ர்‌ னா 1 பகி ம்‌ ப ் இ ட்‌ னீ ப 1 ட்‌ யூ ர்‌. [௩ ட ௯௩...
+    EN: •   Difficulty in distinguishing between colours. •   Inability to see shades or tones of the same colour.
+  7_term2_ch5_aligned_align_00045  labse=0.68 bad=6 rare=82%
+    TA: வககப்படுத்துதல் ெம்கமச்சுற்றி உள்ை உயிருள்ை மற்றும் உயிற்ை கபொருள்ககை ென்கு புரிந்து ககொள்வதற்கு உதவுகின்ைது.
+    EN: Classification helps us to understand, living and non - living things in better way.
+  7_term2_ch1_aligned_align_00064  labse=0.37 bad=5 rare=87%
+    TA: எப்கபொருளின் அைககதவணடுதமொ முழுவதும் கவப்பநிகலயிகன அப்கபொருைொனது கவப்பநிகலமொனியின் குமிழிகன அகனத்து பககஙகளிலும் சூழந்து உள்ைதபொது மட்டுதம அைவீட்டிகன எட
+    EN: Note the reading only when the bulb has been surrounded by the substance from all sides.
+  7_term1_ch4_aligned_align_00052  labse=0.50 bad=5 rare=82%
+    TA: மின்சு்மயும் ்ைட ைன் (புர பாடடியம்) தைவி  அ்னதது அணுக்கருக்களும் நியூட பான்க்ளக் பகபாண்டுள்ளன.
+    EN: Except hydrogen (protium), the nucleus of all atoms contain neutrons.
+  7_term2_ch1_aligned_align_00084  labse=0.32 bad=4 rare=100%
+    TA: ஏகனன்ைொல் பொதரசத்தின் அதிகமொன விரிவினொல் உருவொகும் அழுத்தத்தின் கொரணமொக கவப்பநிகலமொனிைொனது உகடந்துவிடககூடும
+    EN: The glass will crack / burst due to excessive pressure created by expansion of mercury. DO YOU KNOW?
+  7_term2_ch5_aligned_align_00046  labse=0.56 bad=4 rare=81%
+    TA: உதொரணமொக புதிைதொகக கணடுபிடிககப்பட்ட ஒரு கபொருள் அல்லது உயிரினத்கத வககப்படுத்துவதொல் அது மற்ைகவகதைொடு எவவககயில் கதொடர்பு உகடைது என்பகதத் கதரிந்து ககொள்
+    EN: For example, we can classify a newly discovered organism, we would come to know, how it relates with other. Need for Classification Classification is 
+  7_term1_ch3_aligned_align_00022  labse=0.68 bad=6 rare=36%
+    TA: நீர (H2O) மூலக்கூ்றபானது ஒரு ஆக்சிஜன் (O) அணுவும், இரணடு ்ஹட்ரஜன் (H2) அணுக்களும் இ்ணவதைபால் உருவபாகி்றது. மூலக்கூறுகள் அணுக்களின் ்ணபுக்ள பவளிப்டுதது
+    EN: An atom of oxygen (O) and two atoms of hydrogen (H) combine to form a molecule of water (H2O).
+  7_term1_ch3_aligned_align_00012  labse=0.56 bad=5 rare=50%
+    TA: ஒரு தைனிமததின் அ்னததுப ்ணபுக்ளயும் பவளிப்டுததைக்கூடிய அததைனிமததின் மிக நுணணிய துகசள அணு என அ்ைக்கப்டுகி்றது.
+    EN: The smallest unit of an element that exhibits the properties of that element is called as ‘atom’.
+  7_term1_ch3_aligned_align_00014  labse=0.70 bad=4 rare=60%
+    TA: நீர, அரிசி உட்்ட நம்்மச் சுறறிக் கபாணப்டும் அ்னததுப ்ருபப்பாருள்களும் அணுக்களபால் ஆன்வ.
+    EN: Water, rice and everything we see around is made up of atoms.
+  7_term1_ch3_aligned_align_00031  labse=0.68 bad=2 rare=100%
+    TA: இந்தை விதியபானது அ்னததுச் சேரமஙகளின் மூலக்கூறுகளுக்கும் ப்பாருந்துகி்றது.
+    EN: This principle applies to the molecules of all compounds.
+  7_term1_ch4_aligned_align_00050  labse=0.82 bad=3 rare=75%
+    TA: நியூடரொன்்கள் (n) இ்வ அணுக்கருவினுள் அ்மந்துள்ளன.
+    EN: Neutron (n) Neutron is inside the nucleus.
+  7_term1_ch3_aligned_align_00011  labse=0.52 bad=3 rare=71%
+    TA: ஒரு கபார்ன் அணு்வப பிளக்கும்ச்பாது, கபார்னின் ்ணபுகள் பவளிப்டுகின்்றன.
+    EN: If we break the carbon atom apart, the properties of carbon are exhibited.
+  7_term1_ch2_aligned_align_00085  labse=0.75 bad=3 rare=70%
+    TA: வே்கம் - ்கொலம் ேசரபெடம ஒரு பேருந்தானது தஞ்சையிலிருந்து திருச்சியை நோக்கிச்‌ செல்வதாகக்‌ கருதுவோம்‌.
+    EN: Let us consider a bus travelling from hanjavur to Trichy.
+  7_term1_ch3_aligned_align_00149  labse=0.65 bad=4 rare=45%
+    TA: திண்மைம திரவத்தை வெப்பப்பருத்தும்போது துகள்கள்‌ ஆற்றலைப்பெற்று தீவிரமாக அதிர்வுறுகின்றன. திரவம உருகுநி்ல்ய அ்டயும்ச்பாது உருகுதைல் ந்டப்றுகின்்றது. தி
+    EN: When a liquid is heated the particles gain energy and vibrate more vigorously.
+
+======================================================================
+PART 2: RELEVANCE GAP (cross-encoder score below the best chunk)
+----------------------------------------------------------------------
+Q1 (std 6) What is the SI unit of mass?
+  ce= 9.85 gap= 0.00  00067  The SI unit of mass is kilogram.
+  ce= 7.27 gap= 2.58  00128  The SI units are: Length - metre Mass - kilogram Time - second While using a ruler, the accurate measurement c
+  ce= 6.57 gap= 3.28  00045  SI unit for length is metre SI unit for mass is kilogram SI unit for time is second SI unit for area is m2 SI 
+  ce= 2.01 gap= 7.84  00066  1.2 Mass Mass is the measure of the amount of matter in an object.
+  ce= 1.18 gap= 8.67  00137  In SI units the unit of distance is metre and the unit of time is second.
+  ce= 0.52 gap= 9.33  00138  So, the SI unit of speed is metre/second.
+  ce= 0.18 gap= 9.67  00044  This system is called as the International System of Units or SI Units.
+  ce= 0.06 gap= 9.79  00136  In science we generally use SI units.
+----------------------------------------------------------------------
+Q2 (std 6) What is uniform motion?
+  ce= 8.05 gap= 0.00  00170  We will learn more about uniform and non-uniform motion in higher classes. If an object covers uniform distanc
+  ce= 6.31 gap= 1.74  00168  That is, its motion is uniform.
+  ce= 5.09 gap= 2.96  00165  That is, the speed is non-uniform. This motion is said to be non-uniform motion.
+  ce= 4.77 gap= 3.28  00008  To distinguish uniform and non-uniform motion.
+  ce= 3.95 gap= 4.10  00158  Uniform and Non-uniform motion Suppose a train leaves Thiruchirapalli and arrives at Madurai.
+  ce= 2.88 gap= 5.18  00110  This motion is not in uniform interval.
+  ce= 2.07 gap= 5.98  00169  Many motions we see in our day to day life are non-uniform.
+  ce= 0.93 gap= 7.12  00171  In a nutshell, we can classify the motion in terms of a) path b) if it is periodic or not c) if the speed is u
+----------------------------------------------------------------------
+Q3 (std 6) What are the methods of separating mixtures?
+  ce= 8.10 gap= 0.00  00142  LET US DO: methods involved in the above activities and also learn about a few other methods. Separation Techn
+  ce= 7.53 gap= 0.57  00201  The method of separating insoluble component (sand, mud _ etc.) from a mixture using a filter paper is called 
+  ce= 6.95 gap= 1.15  00204  If the mixture of sand and salt in water has to be separated several methods like sedimentation, decantation, 
+  ce= 6.90 gap= 1.20  00144  Decantation Separating clear supernatant without disturbing sediment 8. Filtration Separating solid from a liq
+  ce= 5.68 gap= 2.42  00127  The process by which the components of mixture are isolated and removed from each other to get pure substance 
+  ce= 5.65 gap= 2.46  00221  Separation of mixtures is done 1. to remove harmful components.
+  ce= 5.24 gap= 2.86  00006  To suggest suitable methods for separating given samples of mixtures.
+  ce= 3.43 gap= 4.68  00224  Different separation methods are adopted depending on the properties of the components.
+  ce= 3.39 gap= 4.71  00228  Sedimentation – Settling down of suspended, insoluble and heavy solid particles (used to separate solid – liqu
+  ce= 2.81 gap= 5.29  00143  Threshing Removing grains from stalks 5. Magnetic separation Separating the magnetic substances from non-magne
+----------------------------------------------------------------------
+Q4 (std 6) What is health?
+  ce= 9.34 gap= 0.00  00042  Health is a state of complete physical, mental and social well-being and not merely absence of diseases.
+  ce= 8.30 gap= 1.04  00010  Health is a dynamic condition resulting from a body's constant adjustment and adaptation in response to stress
+  ce= 7.81 gap= 1.53  00009  As defined by World — Health Organization (WHO), ‘health is a state of complete physical, mental, and social w
+  ce= 6.24 gap= 3.10  00007  Introduction The word ‘health’ refers to a state of complete emotional and physical well- being.
+----------------------------------------------------------------------
+Q5 (std 6) What are the sources of electricity?
+  ce= 7.17 gap= 0.00  00106  There are many sources of electricity such as thermal power stations, hydel electric power stations, wind mill
+  ce= 6.90 gap= 0.27  00033  Any device from which electricity is produced is called the source of electricity.
+  ce= 6.34 gap= 0.83  00021  Engineer: We get electricity from thermal power, hydel power, tidal power, wind power, solar power etc., as so
+  ce= 5.36 gap= 1.81  00105  Points to remember Any device from which electricity is produced, is called the source of electricity.
+  ce= 3.49 gap= 3.68  00030  Apart from the above mentioned sources, we get electricity from cells, and batteries.
+  ce= 1.23 gap= 5.94  00034  We get electricity from different sources.
+  ce= 0.19 gap= 6.97  00012  2.1 Sources of Electricity Selvan and Selvi are twins.
+----------------------------------------------------------------------
+Q6 (std 6) What is a magnetic compass?
+  ce= 5.98 gap= 0.00  00045  The navigators of that country used to keep a piece of lode stone suspended in their boats and during a storm 
+  ce= 3.16 gap= 2.82  00094  A compass is an instrument which is used to find directions.
+  ce= 1.66 gap= 4.32  00048  Ask your teacher to help you in using magnetic compass.
+  ce= 1.14 gap= 4.84  00046  As a rule, mountaineers also carry a compass with them so that they do not lose their way in unknown places. T
+----------------------------------------------------------------------
+Q7 (std 6) What are input devices?
+  ce= 9.65 gap= 0.00  00012  The devices that are used to input data are called input devices. Keyboard, Mouse, Scanner, Barcode reader, Mi
+  ce= 7.14 gap= 2.51  00092  Whatever we want to send to a computer is sent through a device called input device.
+  ce= 6.35 gap= 3.30  00034  Monitor, Printer, Speaker, scanner are some of the output devices.
+  ce= 5.63 gap= 4.02  00094  These are called as output devices.
+  ce= 4.51 gap= 5.14  00004  A hardware device helps to enter input information. The software processes the input data and gives the output
+  ce= 3.90 gap= 5.75  00035  Of the various output devices, monitor is the important output device because it is link to the computer.
+  ce= 2.49 gap= 7.16  00014  Keyboard plays an important role in a computer as a input device.
+  ce= 0.59 gap= 9.06  00013  Keyboard Keyboard and mouse are the important input units.
+----------------------------------------------------------------------
+Q8 (std 6) What are the causes of air pollution?
+  ce= 9.34 gap= 0.00  00167  Air pollution is also caused by burning solid wastes, like some plastics, gases or chemicals released from fac
+  ce= 8.56 gap= 0.78  00164  4.6.1 Air pollution Most air pollution is caused by the burning of fossil fuels (e.g. oil, petrol, coal and na
+  ce= 4.52 gap= 4.82  00166  Burning these fossil fuels release toxic gases and fine particles (such as ash and soot) into the air causing 
+  ce= 3.44 gap= 5.90  00157  Pollution is the damage caused to the environment mainly because of human activities.
+  ce= 2.89 gap= 6.45  00156  4.5 Pollution Pollution occurs when the environment gets contaminated by wastes, chemicals and harmful substan
+  ce= 2.65 gap= 6.69  00228  Pollution occurs when the environment gets contaminated by _ wastes, chemicals and harmful substances.
+  ce= 2.41 gap= 6.93  00220  Iam the type of pollution caused by using too much chemical fertilizers and pesticides by farmers.
+  ce= 1.94 gap= 7.40  00171  Air pollution is harmful to all living organisms including humans.
+  ce= 1.59 gap= 7.75  00212  I am the type of pollution caused by burning of fossil fuels like petrol or coal and the smoke of burning garb
+  ce= 1.07 gap= 8.27  00227  Waste should never be burned as it causes air and soil pollution.
+----------------------------------------------------------------------
+Q9 (std 6) What is the digestive system?
+  ce= 4.53 gap= 0.00  00045  6.3 Digestive System Digestive system consists of the alimentary canal and associated glands.
+  ce= 0.54 gap= 3.99  00046  This system is involved in the conversion of complex food substances into simple forms and absorption of diges
+----------------------------------------------------------------------
+Q10 (std 6) What are natural magnets?
+  ce= 5.85 gap= 0.00  00087  Points to remember Magnetites are natural magnets.
+  ce= 5.48 gap= 0.37  00015  Natural magnets do not have a definite shape.
+  ce= 4.92 gap= 0.93  00013  The name is also supposed to come after the name of the place (Magnesia) in which it was found. Magnetite, the
+  ce= 4.20 gap= 1.65  00089  Man-made magnets are called artificial magnets.
+----------------------------------------------------------------------
+Q11 (std 7) What are the fundamental particles of an atom?
+  ce= 6.85 gap= 0.00  00102  Atoms are the fundamental particles of an element. Molecules are the fundamental particles of a compound. 3.5 
+  ce= 3.65 gap= 3.20  00053  Protons and neutrons are the two types of particles in the nucleus of an atom.
+  ce= 2.45 gap= 4.40  00156  An atom is the smallest particle of an element.
+  ce= 1.24 gap= 5.61  00005  Atoms are the smallest particles.
+  ce= 1.17 gap= 5.69  00047  In the same manner, protons and neutrons of all elements also have same characteristics. these particles that 
+  ce= 1.07 gap= 5.79  00113  Points to Remember An atom is the smallest particle of an element that retains its chemical properties.
+  ce= 0.33 gap= 6.52  00013  All the matter is composed of tiny particles called atom.
+----------------------------------------------------------------------
+Q12 (std 7) What is atomic number?
+  ce=10.39 gap= 0.00  00122  Atomic number is the number of protons in an atom.
+  ce= 8.33 gap= 2.07  00065  4.3.1 Atomic number (z) The number of electrons or protons in an atom is called the atomic number of that atom
+  ce= 5.18 gap= 5.21  00070  It means that its atomic number (z) is 1.
+  ce= 4.05 gap= 6.35  00067  If we know the atomic number of an atom, we can find the number of electrons or protons in it.
+  ce= 3.92 gap= 6.48  00079  Atomic mass or Mass number= Number of Protons + Number of Neutrons A=p+n Lithium atom contains 3 protons and 4
+  ce= 3.29 gap= 7.10  00123  The total number of protons and neutrons present in the nucleus of an atom is called its mass number.
+  ce= 2.66 gap= 7.73  00076  4.3.2 Mass number (A) or Atomic mass We have seen that the mass of an atom is concentrated in its nucleus.
+  ce= 2.25 gap= 8.15  00015  An atom is the basic unit of a matter.
+----------------------------------------------------------------------
+Q13 (std 7) What is mass number?
+  ce= 7.68 gap= 0.00  00123  The total number of protons and neutrons present in the nucleus of an atom is called its mass number.
+  ce= 6.31 gap= 1.37  00079  Atomic mass or Mass number= Number of Protons + Number of Neutrons A=p+n Lithium atom contains 3 protons and 4
+  ce= 6.05 gap= 1.63  00076  4.3.2 Mass number (A) or Atomic mass We have seen that the mass of an atom is concentrated in its nucleus.
+  ce= 4.03 gap= 3.65  00080  Its mass number (A) = 3+4 = 7.
+  ce= 2.97 gap= 4.71  00077  From this, we can get the mass number (A).
+  ce= 1.42 gap= 6.26  00058  Hence, the mass of an atom depends on the number of protons and neutrons in the nucleus.
+  ce= 0.56 gap= 7.13  00122  Atomic number is the number of protons in an atom.
+  ce= 0.16 gap= 7.53  00123  - Density = Mass / Volume; Mass = Density × Volume; Volume = Mass / Density. - One astronomical unit (AU) is d
+----------------------------------------------------------------------
+Q14 (std 7) What are the types of pollination?
+  ce= 9.03 gap= 0.00  00224  There are two types of pollination - self pollination and cross pollination.
+  ce= 4.03 gap= 5.01  00063  Cross pollination does introduce variations in the characteristics of  new plants. Beans (Fabaceae) and tomato
+  ce= 3.20 gap= 5.84  00055  Insects, birds are also agents of pollination.
+  ce= 2.77 gap= 6.26  00225  Agents like wind, water, insects and animals are helpful for pollination and are known as pollinators.
+  ce= 2.63 gap= 6.40  00051  This is called as an artificial pollination.
+  ce= 2.61 gap= 6.42  00061  Some plants that have both the male and female parts within a single flower (bisexual) pollinate by this means
+  ce= 2.57 gap= 6.47  00223  Transfer of pollen grains from the anther to stigma is called pollination.
+  ce= 2.36 gap= 6.67  00059  This is called as cross pollination When you shake stamens, pollen grains fall.
+  ce= 2.19 gap= 6.85  00052  However, in nature there are many ways in which pollen grains reach the stigma of the flower and it is called 
+  ce= 1.66 gap= 7.38  00070  Plants such as apples, plums, strawberries, pumpkins use insects for cross-pollination.
+----------------------------------------------------------------------
+Q15 (std 7) What are communicable diseases?
+  ce= 9.41 gap= 0.00  00077  6.3.1 Communicable Diseases Communicable diseases are those diseases that spread from one person to another.
+  ce= 9.00 gap= 0.41  00161  Diseases that are caused by pathogens and can be transmitted from an infected person to a healthy person direc
+  ce= 6.21 gap= 3.20  00019  Cold and flu are some of the common communicable diseases.
+  ce= 5.56 gap= 3.86  00080  Diseases caused by Bacteria Communicable diseases like tuberculosis, cholera and typhoid, are caused by bacter
+  ce= 5.46 gap= 3.95  00162  Diseases that are not caused by pathogens and cannot be passed on by a sick person to a healthy person are cal
+  ce= 4.45 gap= 4.96  00076  They are communicable and non-communicable disease.
+  ce= 2.94 gap= 6.48  00115  Therefore, it is important to know which diseases are communicable and which are not.
+  ce= 2.91 gap= 6.50  00113  Non-communicable diseases Non-communicable diseases do not spread from person to person.
+  ce= 2.66 gap= 6.75  00078  Healthy persons must be protected from people with communicable diseases.
+  ce= 2.00 gap= 7.42  00118  Some of the non-communicable diseases are explained below. a.
+----------------------------------------------------------------------
+Q16 (std 7) What are insulators?
+  ce= 7.48 gap= 0.00  00199  Insulators protect equipment and life from electric shock. Parallel Circuit — A circuit in which there are mul
+  ce= 7.01 gap= 0.48  00138  Insulators Materials that do not allow electric charges to flow through them easily are called electrical insu
+  ce= 6.72 gap= 0.77  00048  Materials with high resistivity resist the flow of electricity and are called insulators.
+  ce= 6.47 gap= 1.02  00198  Copper and aluminum wire are the most common conductors. Insulator — Any material where electric current does 
+  ce= 5.67 gap= 1.82  00139  In insulators, electrons are tightly bound to their atoms and there are virtually no free electrons available 
+  ce= 5.25 gap= 2.23  00141  Examples of insulators include rubber, glass, plastic, dry wood, porcelain, and air.
+  ce= 4.54 gap= 2.94  00140  Insulators have very high electrical resistivity.
+  ce= 3.22 gap= 4.26  00147  On the other hand, plastic and rubber coatings surrounding electrical wires act as insulators, preventing curr
+----------------------------------------------------------------------
+Q17 (std 7) What is an ammeter?
+  ce=10.28 gap= 0.00  00191  Ammeter — An instrument for measuring the flow of electrical current in amperes.
+  ce= 6.30 gap= 3.98  00021  Measurement of electric current Electric current is measured using a device called ammeter.
+  ce= 5.38 gap= 4.90  00192  Ammeters are always connected in series with the circuit to be tested.
+  ce= 4.72 gap= 5.56  00023  An ammeter must be connected in series in a circuit.
+  ce= 3.34 gap= 6.95  00024  Instruments used to measure smaller currents, in the milli ampere or micro ampere range, are designated as mil
+  ce= 2.51 gap= 7.77  00022  The terminals of an ammeter are marked with + and - sign.
+----------------------------------------------------------------------
+Q18 (std 7) What is binomial nomenclature?
+  ce=10.65 gap= 0.00  00126  Binomial nomenclature is an universal system of naming organisms.
+  ce=10.65 gap= 0.00  00141  Binomial nomenclature is an universal system of naming organisms.
+  ce= 8.11 gap= 2.54  00133  Binomial nomenclature and classification helps scientists to identify any organisms and to place them at a par
+  ce= 5.43 gap= 5.22  00124  Binomial Nomenclature Gaspard Bauhin in re: 1623, introduced naming of Paya organisms with two names ew ones :
+  ce= 4.96 gap= 5.69  00132  Binomial name is an universal name which never changes.
+  ce= 3.50 gap= 7.15  00140  Gaspard Bauhin is 1623, introduced the binomial nomenclature and it was implemented by Carolus Linnaeus in 175
+  ce= 2.01 gap= 8.64  00142  It contain two names The first name of binomial is genus name and the second name is species name Carolus Linn
+  ce= 0.37 gap=10.28  00001  To understand the need for dichotomous classification To classify animals according to their characteristic fe
+----------------------------------------------------------------------
+Q19 (std 7) What are the properties of the image formed by a plane mirror?
+  ce= 9.90 gap= 0.00  00187  Properties of Image formed in a plane mirror Image formed in a plane mirror is upright Image formed in a plane
+  ce= 5.75 gap= 4.15  00172  A plane mirror makes an Image of objects in front of it. The image is upright. The image and the object are th
+  ce= 5.28 gap= 4.63  00171  Plane Mirror and Reflection A polished (or) smooth surface (like glass) which forms image by reflection is kno
+  ce= 2.46 gap= 7.44  00028  Light has some fundamental properties as mentioned below Rectilinear propagation of light Reflection Speed Int
+----------------------------------------------------------------------
+Q20 (std 7) What are natural fibres?
+  ce= 8.83 gap= 0.00  00045  Fibres that are obtained from plant or animal sources are called natural fibres. Examples include cotton, coco
+  ce= 6.58 gap= 2.25  00049  Today, a large variety of natural fibres are still grown and processed such as cotton, silk, and wool.
+  ce= 6.54 gap= 2.29  00052  Three main sources of natural fibres are: (i) Animals Eg. Silk moth, Natural wool (ii) Plants Eg. Cotton, Jute
+  ce= 5.91 gap= 2.93  00043  All natural and synthetic fibres are polymers. Observe the difference between the natural and synthetic fibres
+  ce= 5.85 gap= 2.99  00050  Natural fibres can be spun into filament, thread or rope.
+  ce= 5.74 gap= 3.09  00055  3.3.2 Types and Uses Silk: Natural Fibre Natural silk fibres are obtained from boiling the cocoons of silk wor
+  ce= 5.70 gap= 3.14  00044  Nylon Fishing rope PAGE 45(PDF PAGE 49) 3.3.1 Natural and Synthetic Fibres Fibres are long strands of polymers
+  ce= 5.55 gap= 3.28  00041  Once upon a time, people used natural fibres such as cotton and wool.
+  ce= 5.54 gap= 3.30  00058  Silk is one of the strongest natural fibres and has many uses such as clothing, carpets and parachutes.
+  ce= 5.15 gap= 3.68  00282  Fibres can be natural or synthetic.
+----------------------------------------------------------------------
+Q21 (std 7) What are the units for measuring temperature?
+  ce= 9.52 gap= 0.00  00108  There are three units which are used to measure the temperature: Degree Celsius, Fahrenheit and Kelvin.
+  ce= 9.33 gap= 0.19  00009  1.2 Temperature Units: There are three units which are used to measure the temperature: Degree Celsius, Fahren
+  ce= 7.72 gap= 1.80  00085  1.5 Scales of thermometers Celsius scale Celsius is the common unit of measuring temperature, termed after Swe
+  ce= 6.35 gap= 3.17  00092  It is the SI unit of measuring temperature and written as K also known as absolute scale as it starts from abs
+  ce= 5.64 gap= 3.88  00109  The SI unit of temperature is Kelvin (K).
+  ce= 5.64 gap= 3.88  00016  The SI unit of temperature is kelvin (K).
+  ce= 5.64 gap= 3.88  00087  Fahrenheit Scale Fahrenheit is a Common unit to measure human body temperature.
+  ce= 5.28 gap= 4.24  00028  1.4 Thermometer: Thermometer is the most common instrument to measure temperature.
+  ce= 3.98 gap= 5.54  00017  1.3 Measuring Temperature The temperature of the object is well approximated with the kinetic energy of the su
+  ce= 2.76 gap= 6.76  00059  1.4.2 Laboratory Thermometers Laboratory thermometers are used to measure the temperature in school and other 
+----------------------------------------------------------------------
+Q22 (std 7) What is the structure of a flame?
+  ce= 6.01 gap= 0.00  00134  Structure of a Candle flame: A candle flame has three main zones, they are: i. The outer zone – complete combu
+  ce= 4.51 gap= 1.50  00123  Flame and its structure Fact: Chemical Reaction in Ignition: Oxygen + Heat + Fuel → Fire PAGE 73(PDF PAGE 77)
+  ce= 1.85 gap= 4.16  00166  Flame is a zone of combustion of a combustible substance.
+  ce= 1.77 gap= 4.24  00120  Flame Flame is actually a chemical reaction. To be specific, the flame is a mixture of gases (vaporized fuel, 
+  ce= 1.19 gap= 4.82  00130  Flame: Flame is a zone of combustions of a combustible substance.
+  ce= 0.92 gap= 5.09  00002  Understands combustion and its types Recognizes flame and its structure.
+----------------------------------------------------------------------
+Q23 (std 6) What is parallax error?
+  ce=10.46 gap= 0.00  00061  Parallax Error Parallax is a displacement or difference in the apparent position of an object viewed along two
+  ce= 3.86 gap= 6.59  00004  To identify zero error and parallax error.
+  ce= 2.99 gap= 7.47  00064  In the above representation, to avoid parallax error, reading from B will be correct.
+----------------------------------------------------------------------
+Q24 (std 6) What is speed?
+  ce= 6.55 gap= 0.00  00210  Speed = Distance travelled / Time taken (s= d/t) The motion can be classified according to the path (periodic 
+  ce= 4.97 gap= 1.57  00119  So, slow or fast is a relative concept which depends upon the motions we are comparing.
+  ce= 4.96 gap= 1.59  00125  The distance travelled by an object in unit time is called speed of the object.
+  ce= 4.10 gap= 2.45  00130  Then its speed is given as: Speed (s) = Distance travelled (d) / Time taken (t) = 180 kilometre/ 3 hour = 60 k
+  ce= 4.03 gap= 2.51  00148  We know that, Speed = Distance travelled/Time taken s = d/t or st = d Therefore, the distance travelled (d) = 
+  ce= 3.67 gap= 2.88  00138  So, the SI unit of speed is metre/second.
+  ce= 3.54 gap= 3.00  00126  If an object travelled a distance 'd' in time 't' then, its speed is given as: Speed (s) = Distance travelled/
+  ce= 3.26 gap= 3.29  00128  If an object travelled 10 metre in 2 second, then its speed is given as: Speed (s) = Distance travelled (d) / 
+  ce= 3.15 gap= 3.40  00165  That is, the speed is non-uniform. This motion is said to be non-uniform motion.
+----------------------------------------------------------------------
+Q25 (std 6) What is an electric cell?
+  ce= 7.68 gap= 0.00  00108  Electric cells are of two types depending on the continuity of flow of electric current.
+  ce= 3.63 gap= 4.05  00054  Depending on the continuity of flow of electric current cells are classified in to two types. They are primary
+  ce= 2.92 gap= 4.76  00050  2.2 Cell A device that converts chemical energy into electrical energy is called a cell.
+  ce= 2.64 gap= 5.05  00107  Device that converts chemical energy into electrical energy is called a cell.
+  ce= 0.71 gap= 6.98  00073  A circuit generally has: a) A cell are battery- a source of electric current b) Connecting wires- for carrying
+  ce= 0.26 gap= 7.42  00059  Secondary Cells A cell that can be recharged many times is called secondary cell. These cells can be recharged
+----------------------------------------------------------------------
+Q26 (std 6) What are magnetic materials?
+  ce= 4.51 gap= 0.00  00019  Oval-shape Disc shape Cylindrical shape 1.3 Magnetic and Non Magnetic Materials Substances which are attracted
+  ce= 4.12 gap= 0.39  00020  Iron, cobalt, nickel are magnetic substances.
+  ce= 3.56 gap= 0.95  00090  Substances which are attracted by magnet are called as magnetic substances.
+  ce= 3.05 gap= 1.46  00172  Substances that are attracted to a magnet are called magnetic substances.
+  ce= 1.06 gap= 3.45  00010  That is a magnetic rock. People found it attracting not only for the stick of Magnus, but also for all the mat
+  ce= 0.80 gap= 3.71  00021  Substances which are not attracted by magnet are called non-magnetic substances.
+  ce= 0.80 gap= 3.71  00091  Substances which are not attracted by magnet are called non-magnetic substances.
+  ce= 0.49 gap= 4.02  00022  Paper, plastic are called non- magnetic substances.
+----------------------------------------------------------------------
+Q27 (std 6) What are the uses of oxygen?
+  ce= 2.83 gap= 0.00  00153  The plants and animals that live in water use the oxygen dissolved in water for breathing.
+----------------------------------------------------------------------
+Q28 (std 6) What are electrical conductors?
+  ce= 5.50 gap= 0.00  00093  The materials which allow electric charges to pass through them are called conductors.
+  ce= 5.50 gap= 0.00  00116  The materials which allow electric charges to pass through them are called conductors.
+  ce= 4.34 gap= 1.15  00092  Conductors The rate of flow of electric charges in a circuit is called electric current.
+  ce= 2.84 gap= 2.66  00095  Insulators (Non-Conductors) The materials which do not allow electric charges to pass through them are called 
+  ce= 2.44 gap= 3.06  00117  The materials which do not’ allow electric charges to pass through them are called insulators or non-conductor
+  ce= 1.66 gap= 3.84  00112  An electric circuit is the continuous or unbroken closed path along with electric current flows from the posit
+----------------------------------------------------------------------
+Q29 (std 7) What is velocity?
+  ce= 9.11 gap= 0.00  00142  Velocity is the rate of change in displacement.
+  ce= 7.38 gap= 1.73  00043  2.2.2 Velocity Velocity is the rate of change in displacement.
+  ce= 5.82 gap= 3.28  00044  Velocity (v) = Displacement / Time SI unit of velocity is metre / second (m/s). Look at the figure.
+  ce= 3.67 gap= 5.44  00143  SI unit of velocity is metre / second (m/s). The centre of gravity of an object is the point through which the
+  ce= 3.26 gap= 5.85  00052  Average velocity = Total displacement/Total time taken In the figure given below, a car travels 5 km due east 
+  ce= 3.05 gap= 6.06  00054  Average velocity = Total displacement/Time taken.
+  ce= 2.39 gap= 6.72  00051  Average velocity If the total displacement of an object is divided by the total time taken by the object we ge
+  ce= 2.37 gap= 6.74  00049  Non-uniform velocity If either speed or direction changes, the velocity is non-uniform.
+  ce= 2.14 gap= 6.97  00047  Uniform velocity A body is said to have uniform velocity, if it covers equal displacement at equal intervals o
+  ce= 1.38 gap= 7.73  00071  The velocity of a train at different times is given in the figure.
+----------------------------------------------------------------------
+Q30 (std 7) What is acceleration?
+  ce= 9.18 gap= 0.00  00140  Acceleration is the rate of change in velocity.
+  ce= 7.55 gap= 1.63  00062  2.3 Acceleration Acceleration is the rate of change of velocity.
+  ce= 5.71 gap= 3.47  00063  In other words, if a body changes its speed or direction then it is said to be accelerated. acceleration=chang
+  ce= 1.70 gap= 7.48  00070  2.3.3 Uniform acceleration An object undergoes uniform acceleration when the change (increase or decrease) in 
+  ce= 1.44 gap= 7.74  00141  SI unit of acceleration is m/s^2.
+  ce= 1.09 gap= 8.09  00072  When the velocity of the object is increasing by 20 m/s the acceleration is 20 m/s^2.
+  ce= 0.88 gap= 8.30  00096  Hence, the graph has a positive and constant gradient, and the acceleration is constant.
+  ce= 0.61 gap= 8.57  00066  2.3.2 Negative acceleration or Deceleration or Retardation If the velocity of an object decreases with respect
+  ce= 0.41 gap= 8.78  00098  Hence, the graph has a negative and constant gradient and the acceleration is negative and constant.
+----------------------------------------------------------------------
+Q31 (std 7) What is thermal expansion?
+  no chunk with score > 0
+----------------------------------------------------------------------
+Q32 (std 7) What are the laws of reflection?
+  ce= 8.56 gap= 0.00  00081  Laws of reflection: 1. The angle of incidence is always equal to the angle of reflection. i = r 2.
+  ce= 7.22 gap= 1.34  00096  The laws of reflection holds good for all surfaces irrespective of the shape.
+  ce= 6.35 gap= 2.21  00106  In each case, the law of reflection is followed, resulting in five reflected rays labelled A', B', C', D', and
+  ce= 6.21 gap= 2.35  00098  As long as we can draw the normal, perpendicular to the surface at the point can be drawn, the angle of incide
+  ce= 5.63 gap= 2.93  00097  Vertical surfaces, angled surfaces, and even over the curved surfaces, the laws of reflection holds good.
+  ce= 3.91 gap= 4.65  00240  As you can see, periscope uses the laws of reflection.
+  ce= 3.72 gap= 4.84  00095  We saw earlier that the light reflects off surfaces in a very predictable manner, in accordance with the law o
+  ce= 2.86 gap= 5.70  00084  Solution: Angle of incidence = 27° According to the laws of reflection, the angle of reflection = Angle of inc
+  ce= 1.40 gap= 7.16  00045  Reflection A mirror reflects our face.
+  ce= 0.43 gap= 8.13  00238  As the angle of incident must be equal to angle of reflection, the reflected rays flow through the tube downwa
+----------------------------------------------------------------------
+Q33 (std 7) What are synthetic fibres?
+  ce= 8.65 gap= 0.00  00325  Synthetic fibres are made from the byproducts of processing petroleum oil and gas.
+  ce= 8.10 gap= 0.55  00054  Synthetic fibres such as nylon, polyester and acrylic are used to make many different plastic items you use in
+  ce= 7.71 gap= 0.93  00046  Fibres that are made using raw materials from petroleum are synthetic fibres.
+  ce= 7.44 gap= 1.21  00069  Nylon: Synthetic Fibre Nylon is the first fully processed synthetic fibre.
+  ce= 7.13 gap= 1.52  00079  Polyester and Acrylic: Synthetic Fibres Polyester is another synthetic fibre.
+  ce= 6.76 gap= 1.89  00101  If you could recall that we already found out that synthetic fibres are made out of petrochemicals and last in
+  ce= 6.60 gap= 2.05  00043  All natural and synthetic fibres are polymers. Observe the difference between the natural and synthetic fibres
+  ce= 6.59 gap= 2.06  00044  Nylon Fishing rope PAGE 45(PDF PAGE 49) 3.3.1 Natural and Synthetic Fibres Fibres are long strands of polymers
+----------------------------------------------------------------------
+Q34 (std 7) What are the types of fire extinguishers?
+  ce=10.81 gap= 0.00  00154  Types of fire extinguisher: The most common types of fire extinguishers are: Air pressurized water extinguishe
+  ce= 9.46 gap= 1.35  00155  Fire extinguishers can be broadly classified into five types: 1\. Dry Powder, 4.
+  ce= 5.73 gap= 5.08  00149  Fire extinguisher: A fire extinguisher cut off the supply of Air or bring down the temperature of the fuel or 
+  ce= 4.00 gap= 6.81  00170  A fire extinguisher cut off the supply of air or bring down the temperature of the fuel or both and controls t
+  ce= 3.84 gap= 6.96  00151  Portable fire extinguishers apply an extinguishing agent that will either cool burning fuel, displace or remov
+  ce= 3.34 gap= 7.46  00153  A fire extinguisher works much like a can of hair spray.
+  ce= 0.63 gap=10.17  00157  Classes of Fire: Class A fires – Combustible materials: caused by flammable solids, such as wood, paper, and f
+  ce= 0.44 gap=10.37  00152  When the handle of an extinguisher is compressed, it opens and inner canister of high pressure gases forces th
+  ce= 0.41 gap=10.39  00150  It is very important to keep a fire extinguisher readily available.
+  ce= 0.40 gap=10.41  00158  Class E fires – Typically a chip-pan fire. Electrical fires – Electrical equipment: once the electrical item i
+
+gap range   accepted chunks
+ 0-1           49
+ 1-2           24
+ 2-3           24
+ 3-4           31
+ 4-5           23
+ 5-6           23
+ 6-8           48
+ 8-99          18

@@ -1,0 +1,345 @@
+
+======================================================================
+Q1 (std 6) நீளம், நிறை மற்றும் காலம் என்றால் என்ன?
+  gold EN: What are length, mass and time?   NLLB: What are length, mass, and time?
+  A HIT  00127(9.3); 00002(6.5); 00024(4.5)
+  F pool=83  top-5:
+     1.00 GOLD 00002 To define length, mass and time.
+     0.99 GOLD 00127 Length, mass and time are some of the fundamental physical quantities.
+     0.87 rel  00128 The SI units are: Length - metre Mass - kilogram Time - second While u
+     0.19 GOLD 00024 In this chapter let’s study in detail about length, mass and time and 
+     0.10 NOT  00009 To compute time, distance and speed.
+
+======================================================================
+Q2 (std 6) சுழிப் பிழை என்றால் என்ன?
+  gold EN: What is zero error?   NLLB: What is a loophole?
+  A MISS 
+  F pool=74  top-5:
+     0.01 NOT  00114 It is commonly known as glue, mucilage, or paste.
+     0.00 NOT  00097 Do you know what it is?
+     0.00 NOT  00009 What are electric circuits?
+     0.00 NOT  00069 What is a habitat?
+     0.00 NOT  00089 Malar: Ok Sir, then what is hardware?
+
+======================================================================
+Q3 (std 6) தொடு விசைக்கும் தொடா விசைக்கும் உள்ள வேறுபாடு என்ன?
+  gold EN: What is the difference between contact force and non-contact force?   NLLB: What is the difference between a touch key and a touch key?
+  A MISS 
+  F pool=76  top-5:
+     0.97 GOLD 00055 Contact, Non-contact Forces Forces can be classified into two major ty
+     0.85 rel  00209 Some forces act only when they are in contact. There are some forces w
+     0.80 GOLD 00002 To understand that some forces are contact forces and some are non-con
+     0.80 GOLD 00068 Such forces are known as non-contact forces.
+     0.12 NOT  00017 Keyboard has two types of keys, namely number keys and alphabet keys.
+
+======================================================================
+Q4 (std 6) திண்மம், திரவம், வாயு ஆகியவற்றை வேறுபடுத்துக.
+  gold EN: Distinguish between solids, liquids and gases.   NLLB: Distinguish between dust, liquid, and gas.
+  A HIT  00003(2.9); 00218(2.1)
+  F pool=79  top-5:
+     0.96 GOLD 00215 Matter is classified into solids, liquids and gases on the basis of tw
+     0.92 rel  00037 Grouping of Matter on the basis of Physical states These are the three
+     0.90 GOLD 00003 To differentiate solids, liquids and gases based on the arrangement of
+     0.84 rel  00056 How did you classify the items in the above list as solids, liquids an
+     0.81 rel  00080 Record your observations and share among the group members. You would 
+
+======================================================================
+Q5 (std 6) தூய பொருள் என்றால் என்ன? கலவை என்றால் என்ன?
+  gold EN: What is a pure substance? What is a mixture?   NLLB: What is pure matter? What is composition?
+  A HIT  00087(2.8); 00219(1.8)
+  F pool=68  top-5:
+     0.95 rel  00219 A pure substance can be an element or a compound and it can be made up
+     0.85 GOLD 00111 A mixture is an impure substance and contains more than one kind of pa
+     0.84 rel  00004 To differentiate pure substances from mixtures.
+     0.76 NOT  00084 For common people pure means unadulterated, does not contain any cheap
+     0.69 GOLD 00087 A pure substance is made up of only one kind of particles.
+
+======================================================================
+Q6 (std 6) சமச்சீர் உணவு என்றால் என்ன?
+  gold EN: What is a balanced diet?   NLLB: What is a balanced diet?
+  A HIT  00046(9.3); 00045(8.4); 00047(6.8)
+  F pool=79  top-5:
+     0.16 GOLD 00045 Balanced Diet A diet should contain adequate amount of all the necessa
+     0.02 rel  00003 To know about balanced diet.
+     0.02 GOLD 00047 Balanced diet is important for the following reasons.
+     0.01 GOLD 00046 A balanced diet contains sufficient amount of various nutrients to ens
+     0.01 NOT  00043 Eating a healthy diet keeps you physically and mentally fit.
+
+======================================================================
+Q7 (std 6) குறைபாட்டு நோய்கள் யாவை?
+  gold EN: What are deficiency diseases?   NLLB: What are disabilities?
+  A MISS 
+  F pool=83  top-5:
+     0.86 GOLD 00056 The diseases that are caused due to lack of nutrients in the diet are 
+     0.80 rel  00086 They are: Carbohydrate, Fats, Protein, Vitamins, Minerals and Water  
+     0.77 rel  00087 Night blindness, scurvy, rickets and beriberi are vitamin deficiency d
+     0.30 GOLD 00055 Malnutrition leads to deficiency diseases.
+     0.27 GOLD 00004 To list out the deficiency diseases.
+
+======================================================================
+Q8 (std 6) கணினியின் தலைமுறைகள் யாவை?
+  gold EN: What are the generations of computers?   NLLB: What are the generations of computers?
+  A HIT  00061(6.3); 00004(4.8); 00068(3.6)
+  F pool=76  top-5:
+     0.99 NOT  00064 Can you explain us about the five generations?
+     0.97 GOLD 00004 To understand the generations of computers.
+     0.76 NOT  00005 To understand the types of computers.
+     0.63 GOLD 00061 The computers that we use today belongs to fifth generation.
+     0.59 NOT  00002 To know about the history of computers.
+
+======================================================================
+Q9 (std 6) மின்சுற்று என்றால் என்ன?
+  gold EN: What is an electric circuit?   NLLB: What is an electrical circuit?
+  A HIT  00112(8.9); 00073(5.4); 00072(4.1)
+  F pool=81  top-5:
+     1.00 GOLD 00009 What are electric circuits?
+     1.00 GOLD 00112 An electric circuit is the continuous or unbroken closed path along wi
+     0.98 GOLD 00072 Inside view of torch An electric circuit is the continuous or unbroken
+     0.81 NOT  00081 Series Circuit 3. Parallel Circuits 1. Simple Circuit A circuit consis
+     0.67 rel  00113 A circuit consisting of a cell, key, bulb and connecting wires is call
+
+======================================================================
+Q10 (std 6) கரைப்பான் மற்றும் கரைபொருள் என்றால் என்ன?
+  gold EN: What are solvent and solute?   NLLB: What are solvents and solvents?
+  A HIT  00049(8.1); 00075(1.9); 00004(1.9)
+  F pool=77  top-5:
+     0.99 GOLD 00050 Solute is a substance that is dissolved in a solvent to make a solutio
+     0.98 GOLD 00049 Solvent is a substance that dissolves the solute.
+     0.63 rel  00051 When solute is dissolved in a solvent it forms a solution.
+     0.53 GOLD 00072 A solute when dissolved in a solvent makes a solution.
+     0.12 NOT  00114 It is commonly known as glue, mucilage, or paste.
+
+======================================================================
+Q11 (std 6) காற்றின் கூறுகள் யாவை?
+  gold EN: What are the components of air?   NLLB: What are the elements of air?
+  A HIT  00170(4.9); 00090(4.6); 00087(4.2)
+  F pool=75  top-5:
+     0.42 rel  00092 The composition of air in terms of percentage of its various component
+     0.15 NOT  00085 We will now describe what air is made up of.
+     0.07 NOT  00145 Respiration in Animals When we breathe in air, the oxygen present in t
+     0.06 GOLD 00087 The major component of air is nitrogen.
+     0.05 rel  00086 This is called composition of air.
+
+======================================================================
+Q12 (std 6) ஒரு செல் உயிரிகளுக்கும் பல செல் உயிரிகளுக்கும் உள்ள வேறுபாடு என்ன?
+  gold EN: What is the difference between unicellular and multicellular organisms?   NLLB: What is the difference between single-celled organisms and multicellular organisms?
+  A HIT  00035(9.0); 00052(7.5); 00037(6.4)
+  F pool=75  top-5:
+     0.98 GOLD 00052 Table 1 The differences between Unicellular and Multicellular Organism
+     0.98 GOLD 00035 Some organisms are made of a single cell and these are called unicellu
+     0.97 rel  00003 To distinguish between unicellular and multicellular organisms.
+     0.91 rel  00058 Multicellular Organism Cell Structure They are organisms that are made
+     0.83 rel  00033 5.2 Unicellular and Multicellular Organisms Living things are made of 
+
+======================================================================
+Q13 (std 6) மனித உடலின் முக்கிய உறுப்பு மண்டலங்கள் யாவை?
+  gold EN: What are the major organ systems of the human body?   NLLB: What are the major organs of the human body?
+  A HIT  00004(6.4); 00097(2.4); 00050(1.8)
+  F pool=81  top-5:
+     0.98 NOT  00001 Introduction Organ systems are formed by the association of organs whi
+     0.97 GOLD 00004 The Human body has eight major organ systems.
+     0.86 NOT  00120 It is composed of kidneys, ureters, urinary bladder and urethra.
+     0.43 NOT  00097 There are five sense organs in our body such as eyes, ears, nose, tong
+     0.42 NOT  00063 Tissues/Organs They are composed of tissues, organs and organ systems.
+
+======================================================================
+Q14 (std 6) காந்தத்தின் பண்புகள் யாவை?
+  gold EN: What are the properties of a magnet?   NLLB: What are the properties of magnetism?
+  A HIT  00049(3.3); 00076(1.2); 00055(0.9)
+  F pool=79  top-5:
+     0.12 NOT  00172 Substances that are attracted to a magnet are called magnetic substanc
+     0.12 rel  00090 Substances which are attracted by magnet are called as magnetic substa
+     0.02 NOT  00099 The objects attracted by the magnet : The objects, not attracted by th
+     0.01 NOT  00064 Animal cell Animal cells are generally smaller than plant cells.
+     0.01 NOT  00087 Points to remember Magnetites are natural magnets.
+
+======================================================================
+Q15 (std 6) மாசுபாட்டின் வகைகள் யாவை?
+  gold EN: What are the types of pollution?   NLLB: What Are the Types of Pollution?
+  A HIT  00229(9.1); 00160(6.9); 00156(4.5)
+  F pool=78  top-5:
+     1.00 GOLD 00229 Major types of pollution are four: air pollution, water pollution, lan
+     0.48 GOLD 00160 4.6 Types of Pollution There are four major kinds of pollution: 1.
+     0.03 rel  00162 Water pollution 3.
+     0.02 rel  00158 Any substance that causes pollution is known as a pollutant.
+     0.02 NOT  00166 Burning these fossil fuels release toxic gases and fine particles (suc
+
+======================================================================
+Q16 (std 7) அடிப்படை அலகுகள் மற்றும் வழி அலகுகள் என்றால் என்ன?
+  gold EN: What are fundamental units and derived units?   NLLB: What are the basic units and the path units?
+  A MISS 
+  F pool=87  top-5:
+     0.96 GOLD 00002 - Identify fundamental and derived units.
+     0.92 rel  00022 Their corresponding units are called derived units.
+     0.92 rel  00014 1.1 Fundamental Quantities and Derived Quantities Generally, physical 
+     0.89 rel  00107 - The physical quantities which can be obtained by mathematically comb
+     0.83 rel  00108 Their corresponding units are called derived units.
+
+======================================================================
+Q17 (std 7) தொலைவு மற்றும் இடப்பெயர்ச்சி ஆகியவற்றுக்கு இடையேயான வேறுபாடு என்ன?
+  gold EN: What is the difference between distance and displacement?   NLLB: What is the difference between distance and displacement?
+  A HIT  00018(3.4); 00025(2.4); 00027(2.4)
+  F pool=82  top-5:
+     0.82 NOT  00139 The shortest distance from the initial to the final position of an obj
+     0.75 rel  00017 The shortest distance from he initial position to the final position o
+     0.63 GOLD 00018 Both distance nd displacement possess the same unit.
+     0.37 rel  00001 After studying this unit, students will be able to: define distance an
+     0.09 NOT  00015 In this lesson we are going to study about distance and displacement, 
+
+======================================================================
+Q18 (std 7) அணு என்றால் என்ன? மூலக்கூறு என்றால் என்ன?
+  gold EN: What is an atom? What is a molecule?   NLLB: What is a nucleus? What is a molecule?
+  A HIT  00118(2.6); 00018(0.6); 00019(0.0)
+  F pool=79  top-5:
+     0.89 GOLD 00018 Molecules When an atom combines wih another atom (or atoms) and forms 
+     0.52 rel  00025 Molecules can be classified as below. A molecule which contains only o
+     0.51 rel  00153 Molecules of an element consist of a fixed number of one type of atom.
+     0.51 rel  00099 Atoms of different elements combine with each other to form molecules.
+     0.50 rel  00110 When atoms of different elements combine with each other, molecules of
+
+======================================================================
+Q19 (std 7) தாவரங்கள் எவ்வாறு இனப்பெருக்கம் செய்கின்றன?
+  gold EN: How do plants reproduce?   NLLB: How do plants reproduce?
+  A HIT  00106(7.9); 00012(7.2); 00219(5.9)
+  F pool=86  top-5:
+     1.00 GOLD 00106 Asexual Reproduction We saw that plants reproduce not only from seeds 
+     1.00 GOLD 00219 In plants there are two types of reproduction - asexual reproduction a
+     0.97 NOT  00110 Vegetative parts of the plants such as root, stem and leaves can help 
+     0.94 GOLD 00012 When plants are reproduced from the seeds we call that process as sexu
+     0.92 rel  00004 Flowers, fruits and seeds in a plant are called reproductive organs.
+
+======================================================================
+Q20 (std 7) நோய்கள் ஏற்படுவதற்கான காரணங்கள் யாவை?
+  gold EN: What are the causes of diseases?   NLLB: What are the causes of illness?
+  A MISS 00123(0.5)
+  F pool=80  top-5:
+     0.96 NOT  00070 The following are the conditions that could lead to the development of
+     0.27 NOT  00004 Why is it so? To prevent and treat sickness successfully, it is necess
+     0.11 NOT  00258 Try this activity.
+     0.10 NOT  00083 Most common cause of fever is infection.
+     0.09 rel  00123 Many common sicknesses are caused by malnutrition.
+
+======================================================================
+Q21 (std 7) கணினியில் கோப்பு மற்றும் கோப்புறையை எவ்வாறு உருவாக்குவது?
+  gold EN: How to create a file and a folder in a computer?   NLLB: How to create a file and folder on the computer?
+  A HIT  00001(3.5); 00028(2.3); 00022(2.0)
+  F pool=84  top-5:
+     0.48 NOT  00008 7.1.1 File The output we get from any application is commonly referred
+     0.32 NOT  00006 How can ve save data and information in computer?
+     0.24 GOLD 00001 After learning the lesson, students will be able to: differentiate a f
+     0.21 NOT  00011 We can create files as per the user’s need.
+     0.16 NOT  00005 7.1 File and Folder The reason we prefer computer is its peed and the 
+
+======================================================================
+Q22 (std 7) வெப்பநிலை என்றால் என்ன?
+  gold EN: What is temperature?   NLLB: What is temperature?
+  A HIT  00004(6.8); 00006(6.8); 00107(5.9)
+  F pool=78  top-5:
+     0.97 GOLD 00107 The measurement of warmness or coldness of a substance is known as its
+     0.75 GOLD 00004 Temperature is involved in many aspects of our daily lives, including 
+     0.59 NOT  00005 It is a measure of the average kinetic energy of the particles in an o
+     0.17 rel  00017 1.3 Measuring Temperature The temperature of the object is well approx
+     0.14 NOT  00019 But the question arises, how to measure it?
+
+======================================================================
+Q23 (std 7) தொடர் மற்றும் பக்க இணைப்பு மின்சுற்று என்றால் என்ன?
+  gold EN: What are series and parallel circuits?   NLLB: What is a series and side connection circuit?
+  A HIT  00111(5.5); 00200(4.8); 00112(4.1)
+  F pool=83  top-5:
+     0.91 rel  00200 Each load connected in a separate path receives the full circuit volta
+     0.84 rel  00199 Insulators protect equipment and life from electric shock. Parallel Ci
+     0.80 GOLD 00120 Similarity and Difference between Series and Parallel Circuit Similari
+     0.73 rel  00121 Difference: • Path: Series has only one path; Parallel has multiple pa
+     0.56 NOT  00113 If any one component breaks or is removed, the entire circuit is broke
+
+======================================================================
+Q24 (std 7) இயற்பியல் மாற்றம் மற்றும் வேதியியல் மாற்றம் என்றால் என்ன?
+  gold EN: What are physical change and chemical change?   NLLB: What is physical change and what is chemical change?
+  A HIT  00243(8.7); 00036(7.8); 00043(6.5)
+  F pool=74  top-5:
+     0.98 rel  00001 To state the effect of heat on solid, liquid and gas and the associate
+     0.94 GOLD 00036 Let us discuss about them in detail in a short while. Let us now see s
+     0.91 rel  00247 Changes that occur with the formation of new substance with different 
+     0.90 GOLD 00243 Physical changes are the changes in which only physical properties of 
+     0.88 rel  00004 A change refers to an alteration in physical properties or alteration 
+
+======================================================================
+Q25 (std 7) தாவர செல்லுக்கும் விலங்கு செல்லுக்கும் உள்ள வேறுபாடுகள் யாவை?
+  gold EN: What are the differences between a plant cell and an animal cell?   NLLB: What are the differences between plant and animal mammals?
+  A HIT  00018(4.5); 00061(3.0); 00041(1.3)
+  F pool=78  top-5:
+     0.92 rel  00039 PAGE 61(PDF PAGE 65) 4.2 Plant and Animal cell comparison Why do plant
+     0.84 GOLD 00041 Now you know that there are many main similarities between plant and a
+     0.75 rel  00086 Do you notice the green organelles present in plant cells and absent i
+     0.73 rel  00001 To compare the plant cell with the animal cell and understand their si
+     0.52 GOLD 00018 Likewise, human body is made up of animal cells and plant is made up o
+
+======================================================================
+Q26 (std 7) இரு கிளைப் பகுப்பு முறை என்றால் என்ன?
+  gold EN: What is dichotomous classification?   NLLB: What is the two-branch system?
+  A MISS 
+  F pool=80  top-5:
+     0.13 GOLD 00018 Classification is done using this dichotomous key.
+     0.02 rel  00019 What is dichotomous key?
+     0.01 NOT  00127 As per this system, each organism has two names - the first is the Gen
+     0.00 NOT  00199 A prism is an object made up of a transparent material, like glass or 
+     0.00 NOT  00224 There are two types of pollination - self pollination and cross pollin
+
+======================================================================
+Q27 (std 7) ஒளி எவ்வாறு பிரதிபலிக்கிறது?
+  gold EN: How is light reflected?   NLLB: How does light react?
+  A MISS 00131(1.6)
+  F pool=79  top-5:
+     1.00 GOLD 00048 How the rays of the light are reflected?
+     0.64 NOT  00029 The path of light How does light travel?
+     0.38 NOT  00011 Light rays can come from different sources.
+     0.19 NOT  00007 Light can be detected by the human eye.
+     0.08 NOT  00006 Light is a type of energy that helps us to see all the things around u
+
+======================================================================
+Q28 (std 7) இஸ்ரோவின் பணிகள் யாவை?
+  gold EN: What are the functions of ISRO?   NLLB: What is the mission of ISRO?
+  A HIT  00238(5.9); 00271(5.4); 00247(5.1)
+  F pool=81  top-5:
+     0.82 NOT  00237 Stars: Luminous heavenly bodies radiating light. Planets: Objects revo
+     0.42 rel  00239 The establishment of ISRO thus institutionalized space activities in I
+     0.37 GOLD 00271 The Indian Space Research Organization (ISRO) is the space agency of t
+     0.36 rel  00247 ISRO sent a lunar orbiter, Chandrayan -1, on 22 October 2008 and a Mar
+     0.19 NOT  00255 ISRO launched Chandran 2 on July 22, 2019, Geosynchronous Satellite La
+
+======================================================================
+Q29 (std 7) பலபடிகள் (பாலிமர்கள்) என்றால் என்ன?
+  gold EN: What are polymers?   NLLB: What are polymers?
+  A HIT  00287(8.9); 00017(8.9); 00020(4.7)
+  F pool=83  top-5:
+     0.98 GOLD 00017 Polymers are very long chains made of repeating smaller molecules call
+     0.94 rel  00015 3.2 What Are Polymers?
+     0.85 rel  00016 The word ‘Polymer’ is of Greek origin. ‘Poly’ means many and ‘mer’ mea
+     0.56 GOLD 00020 3.2.1 Polymer Polymers can be classified into natural and synthetic po
+     0.14 GOLD 00287 Polymers are very long chains made of repeating smaller molecules call
+
+======================================================================
+Q30 (std 7) எரிதல் என்றால் என்ன? அதன் வகைகள் யாவை?
+  gold EN: What is combustion? What are its types?   NLLB: What is burning? What are its types?
+  A HIT  00141(4.0); 00002(2.9); 00111(1.4)
+  F pool=75  top-5:
+     0.97 GOLD 00139 Calorific value = 1,80,000 / 4.5 = 40,000 kJ/kg Types of Combustion: R
+     0.47 GOLD 00142 Explosion: It is a type of combustion in which a substance burns sudde
+     0.23 GOLD 00002 Understands combustion and its types Recognizes flame and its structur
+     0.05 rel  00111 It tells you on the label how much to take Combustion Can you guess wh
+     0.03 NOT  00168 The minimum temperature at which a substance catches fire and burns is
+
+======================================================================
+SUMMARY over 30 queries with a gold chunk
+  A (pipeline now): hits 23, wrong accepted 4
+  F avg time per query: 12.3s (CPU)
+  thr   F hits   A+F hits   extra wrong from F
+  0.1      26         28      17
+  0.2      24         27      14
+  0.3      23         27      13
+  0.4      22         27      11
+  0.5      22         27      10
+  0.6      22         27       9
+  0.7      21         27       8
+  0.8      20         27       7
+  0.9      16         26       4
